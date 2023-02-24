@@ -128,6 +128,7 @@ void ForwardEstimator::add(
       topic_sensors_[wait_topic].insert(input_source_topics.begin(), input_source_topics.end());
     }
   }
+  // std::cout << "added." << std::endl;
 }
 
 std::string _time2str(const builtin_interfaces::msg::Time & time)
@@ -168,11 +169,9 @@ ForwardEstimator::InputSources ForwardEstimator::get_input_sources(
 
   auto stamps_sources_it = message_sources_topic_it->second.find(stamp);
   if (stamps_sources_it == message_sources_topic_it->second.end()) {
-    /*
-    std::cout << topic_name << ":"
-              << _time2str(stamp) << ": not found in message_sources_"
-              << std::endl;
-    */
+    // std::cout << topic_name << ":"
+    //           << _time2str(stamp) << ": not found in message_sources_"
+    //           << std::endl;
     return is;
   }
 
@@ -265,7 +264,15 @@ void ForwardEstimator::debug_print(bool verbose) const
   } else {
     auto n_sources = 0;
     for (auto & it : sources_) {
-      n_sources += it.second.size();
+     {
+        std::cout << "sources_size: " << sources_.size() << " "
+                  << "sources.topic_name: " <<it.first<< " "
+                  //<< "sources.stamp: " << it.second << " "
+                  //<< "message_sources: " << n_message_sources << " "
+                  //<< "topic_sensors: " << n_topic_sensors 
+                  << std::endl;
+        n_sources += it.second.size();
+      }
     }
     auto n_message_sources = 0;
     for (auto & it : message_sources_) {

@@ -19,6 +19,8 @@
 #include "tilde_msg/msg/deadline_notification.hpp"
 #include "tilde_msg/msg/source.hpp"
 
+#include <rclcpp/rclcpp.hpp>
+
 #include <algorithm>
 #include <cassert>
 #include <chrono>
@@ -30,11 +32,30 @@
 #include <utility>
 #include <vector>
 
+// container header
+#include<iostream>
+#include<string>
+#include<array>
+#include<iterator>
+
+#include <fstream>
+
 using std::chrono::milliseconds;
 using tilde_msg::msg::MessageTrackingTag;
 
+/// figures for measurement
+// processed_num: execute time of the path
+// deadline_miss_num: number of early deadline detection by early_deadline_detector
+int processed_num=0;
+int deadline_miss_num=0;
+
+// // writing file (calculating deadline detection rate using CARET)
+// std::ofstream writing_file;
+// rclcpp::Clock system_clock(RCL_ROS_TIME);
+
 namespace tilde_deadline_detector
 {
+
 std::string time2str(const builtin_interfaces::msg::Time & time)
 {
   std::ostringstream ret;
@@ -90,6 +111,7 @@ std::set<std::string> TildeDeadlineDetectorNode::get_message_tracking_tag_topics
   return ret;
 }
 
+// register parameters of autoware_sensors.yaml
 void TildeDeadlineDetectorNode::init()
 {
   auto ignores =
@@ -128,6 +150,7 @@ void TildeDeadlineDetectorNode::init()
   bool show_performance = declare_parameter<bool>("show_performance", false);
 
   // init topic_vs_deadline_ms_
+  // topic_vs_deadline_ms_[topic] means the deadline of each target topic(refer to autoware_sensors.yaml)
   for (size_t i = 0; i < tmp_target_topics.size(); i++) {
     auto topic = tmp_target_topics[i];
     auto deadline = i < deadline_ms.size() ? deadline_ms[i] : 0;
@@ -136,14 +159,53 @@ void TildeDeadlineDetectorNode::init()
     std::cout << "deadline setting: " << topic << " = " << deadline << std::endl;
   }
 
+  // topics subscribed by early_deadline_detector
+  // topics are from example path
+  std::set<std::string> topics{
+    "/sensing/lidar/top/pointcloud_raw_ex",
+    "/sensing/lidar/top/self_cropped/pointcloud_ex",
+    "/sensing/lidar/top/mirror_cropped/pointcloud_ex",
+    "/sensing/lidar/top/rectified/pointcloud_ex",
+    "/sensing/lidar/top/outlier_filtered/pointcloud",
+    "/localization/util/measurement_range/pointcloud",
+    "/localization/util/voxel_grid_downsample/pointcloud",
+    "/localization/util/downsample/pointcloud",
+    "/localization/pose_estimator/pose_with_covariance",
+    "/localization/pose_twist_fusion_filter/kinematic_state",
+    "/localization/kinematic_state",
+    "/planning/scenario_planning/scenario_selector/trajectory",
+    "/planning/scenario_planning/trajectory",
+    "/control/trajectory_follower/control_cmd",
+    // MTT
+    "/sensing/lidar/top/pointcloud_raw_ex/message_tracking_tag",
+    "/sensing/lidar/top/self_cropped/pointcloud_ex/message_tracking_tag",
+    "/sensing/lidar/top/mirror_cropped/pointcloud_ex/message_tracking_tag",
+    "/sensing/lidar/top/rectified/pointcloud_ex/message_tracking_tag",
+    "/sensing/lidar/top/outlier_filtered/pointcloud/message_tracking_tag",
+    "/localization/util/measurement_range/pointcloud/message_tracking_tag",
+    "/localization/util/voxel_grid_downsample/pointcloud/message_tracking_tag",
+    "/localization/util/downsample/pointcloud/message_tracking_tag",
+    "/localization/pose_estimator/pose_with_covariance/message_tracking_tag",
+    "/localization/pose_twist_fusion_filter/kinematic_state/message_tracking_tag",
+    "/localization/kinematic_state/message_tracking_tag",
+    "/planning/scenario_planning/scenario_selector/trajectory/message_tracking_tag",
+    "/planning/scenario_planning/trajectory/message_tracking_tag",
+    "/control/trajectory_follower/control_cmd/message_tracking_tag",
+  };
+
+  // print topic names subscribed by early_deadline_detector
+  for(auto itr = topics.begin(); itr != topics.end(); ++itr) {
+    std::cout << *itr << "\n";
+  }
+
   // wait discovery done
-  std::set<std::string> topics;
   while (topics.size() == 0) {
     RCLCPP_INFO(this->get_logger(), "wait discovery");
     std::this_thread::sleep_for(std::chrono::seconds(1));
     topics = get_message_tracking_tag_topics();
   }
 
+  // ignore_topics(autoware_sensors.yaml)
   for (const auto & ignore : ignores) {
     topics.erase(ignore);
   }
@@ -177,15 +239,19 @@ void TildeDeadlineDetectorNode::init()
       auto et = std::chrono::steady_clock::now();
       timer_callback_counter_.add(
         std::chrono::duration_cast<std::chrono::milliseconds>(et - st).count());
-
+      
       if (show_performance) {
+        std::cout << "-------" << std::endl;
         std::cout << "message_tracking_tag_callback: "
                   << "  avg: " << message_tracking_tag_callback_counter_.avg << "\n"
                   << "  max: " << message_tracking_tag_callback_counter_.max << "\n"
                   << "timer_callback: "
                   << "  avg: " << timer_callback_counter_.avg << "\n"
-                  << "  max: " << timer_callback_counter_.max << std::endl;
-        this->fe.debug_print();
+                  << "  max: " << timer_callback_counter_.max << "\n"
+                  // debug
+                  // << "  processed_num: " << processed_num << "\n"
+                  // << "  deadline_miss_num: " << deadline_miss_num 
+                  << std::endl;
       }
     });
 
@@ -197,6 +263,7 @@ void print_report(
   const std::string & topic, const builtin_interfaces::msg::Time & stamp,
   const ForwardEstimator::InputSources & is)
 {
+  std::cout << "-------" << std::endl;
   std::cout << topic << ": " << time2str(stamp) << "\n";
   for (auto & it : is) {
     std::cout << "  " << it.first << ": ";
@@ -205,6 +272,11 @@ void print_report(
     }
     std::cout << "\n";
   }
+  std::cout << "-------" << std::endl;
+  // print figures for measurement
+  std::cout << "  processed times: " <<  processed_num << "\n"
+            << "  deadline_miss_num: " <<  deadline_miss_num << "\n"
+            << std::endl;
   std::cout << std::endl;
 }
 
@@ -217,6 +289,13 @@ void TildeDeadlineDetectorNode::message_tracking_tag_callback(
   auto stamp = message_tracking_tag->output_info.header_stamp;
   auto pub_time_steady = message_tracking_tag->output_info.pub_time_steady;
 
+  // // writing file (calculating deadline detection rate using CARET)
+  // writing_file.open("MTT.txt", std::ios::app);
+  // writing_file << "----------" << std::endl;
+  // writing_file << "topic name: " << target << std::endl;
+  // writing_file << "current time: " << time2str(system_clock.now())<< std::endl;
+  // writing_file.close();
+
   // work around for non `/clock` bag file
   latest_ = std::max(rclcpp::Time(stamp), latest_);
 
@@ -228,12 +307,13 @@ void TildeDeadlineDetectorNode::message_tracking_tag_callback(
     return;
   }
 
-  // send warning if overruns
+  // print debug messages if "print_report" parameter is true
   if (print_report_) {
     auto is = fe.get_input_sources(target, stamp);
     print_report(target, stamp, is);
   }
 
+  // print debug messages if "print_pending_messages" parameter is true
   if (print_pending_messages_) {
     std::cout << "pending message counts:\n";
     for (const auto & pending_message_count : fe.get_pending_message_counts()) {
@@ -245,12 +325,13 @@ void TildeDeadlineDetectorNode::message_tracking_tag_callback(
     std::cout << std::endl;
   }
 
-  // check deadline and send notification if necessary
+  // definition of deadline_notification
   tilde_msg::msg::DeadlineNotification notification_msg;
   notification_msg.header.stamp = this->now();
   notification_msg.topic_name = target;
   notification_msg.stamp = stamp;
 
+  // definition of deadline
   auto deadline_ms = topic_vs_deadline_ms_[target];
   notification_msg.deadline_setting =
     rclcpp::Duration::from_nanoseconds(RCUTILS_MS_TO_NS(deadline_ms));
@@ -265,23 +346,53 @@ void TildeDeadlineDetectorNode::message_tracking_tag_callback(
     tilde_msg::msg::Source source_msg;
     source_msg.topic = src->output_info.topic_name;
     source_msg.stamp = src->output_info.header_stamp;
+    // // debug
+    // std::cout << "source_msg.topic: " << source_msg.topic << "\n"
+    //           << "source_msg.stamp: " << time2str(source_msg.stamp) << std::endl;
     auto elapsed = rclcpp::Time(pub_time_steady) - rclcpp::Time(src->output_info.pub_time_steady);
     source_msg.elapsed = elapsed;
+    processed_num++;
+    
+    /// expression of deadline detection
+    // a: RCUTILS_MS_TO_NS(deadline) <- deadline of whole path
+    // b: e2e_latency.nanoseconds() <- execution time of whole path
+    // if a <= b, deadline miss is occurred
     if (RCUTILS_MS_TO_NS(deadline_ms) <= elapsed.nanoseconds()) {
+      std::cout << "-------" << std::endl;
+      std::cout << "deadline miss" << std::endl;
       source_msg.is_overrun = true;
       is_overrun = true;
+      deadline_miss_num++;
+
+      // // writing file (calculating deadline detection rate using CARET)
+      // writing_file.open("MTT.txt", std::ios::app);
+      // writing_file << "***********" << std::endl;
+      // writing_file << "deadline miss" << std::endl;
+      // writing_file << "current time: " << time2str(system_clock.now())<< std::endl;
+      // writing_file << "elapsed: " << elapsed.nanoseconds() << std::endl;
+      // writing_file.close();
     }
     notification_msg.sources.push_back(source_msg);
   }
 
   if (is_overrun) {
+    // publish deadline_notification if overruns
     notification_pub_->publish(notification_msg);
+    printf("notificated.\n");
+    std::cout << "  notification_msg.header.stamp: " << time2str(notification_msg.header.stamp) << "\n"
+              << "  notification_msg.topic_name: " << notification_msg.topic_name << "\n"
+              << "  notification_msg.stamp: " << time2str(notification_msg.stamp) << "\n"
+              // print figures for measurement
+              << "  processed times: " <<  processed_num << "\n"
+              << "  deadline miss times: " <<  deadline_miss_num << "\n"
+              << std::endl;
   }
 
   // update performance counter
   auto et = std::chrono::steady_clock::now();
   message_tracking_tag_callback_counter_.add(
     std::chrono::duration_cast<std::chrono::milliseconds>(et - st).count());
+
 }
 
 }  // namespace tilde_deadline_detector
