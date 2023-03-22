@@ -1,6 +1,6 @@
 # TILDE with deadline miss detection rate measurement code
 
-## Added Contents to original TILDE
+## Contents added to original TILDE
 
 | src/                    | about                                                   |
 | ----------------------- | ------------------------------------------------------- |
