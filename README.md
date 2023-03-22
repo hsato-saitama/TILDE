@@ -1,15 +1,11 @@
-# TILDE - Tilde Is Latency Data Embedding
+# TILDE with deadline miss detection rate measurement code
 
-[README(ja)](./doc/README.md)
+## Added Contents to original TILDE
 
-## Contents
-
-| src/         | about                                                |
-| ------------ | ---------------------------------------------------- |
-| tilde        | TILDE main code                                      |
-| tilde_sample | samples including talker, relay, listener and so on. |
-| tilde_msg    | TILDE internal msg                                   |
-| tilde_vis    | TILDE results visualization                          |
+| src/                    | about                                                   |
+| ----------------------- | ------------------------------------------------------- |
+| deadline_detector       | code for deadline detection rate measurement was added. |
+| early_deadline_detector | code for early deadline miss detection.                 |
 
 ## Build
 
