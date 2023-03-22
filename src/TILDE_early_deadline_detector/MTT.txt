@@ -1,0 +1,4026 @@
+----------
+topic name: /sensing/lidar/top/self_cropped/pointcloud_ex
+current time: 1677211891.623691635
+----------
+topic name: /sensing/lidar/top/mirror_cropped/pointcloud_ex
+current time: 1677211891.634424865
+----------
+topic name: /sensing/lidar/top/rectified/pointcloud_ex
+current time: 1677211891.650296886
+----------
+topic name: /sensing/lidar/top/outlier_filtered/pointcloud
+current time: 1677211891.673726480
+----------
+topic name: /localization/util/measurement_range/pointcloud
+current time: 1677211891.692471802
+----------
+topic name: /localization/util/voxel_grid_downsample/pointcloud
+current time: 1677211891.712776929
+----------
+topic name: /localization/util/downsample/pointcloud
+current time: 1677211891.715260950
+----------
+topic name: /sensing/lidar/top/self_cropped/pointcloud_ex
+current time: 1677211891.743597247
+----------
+topic name: /sensing/lidar/top/mirror_cropped/pointcloud_ex
+current time: 1677211891.751224399
+----------
+topic name: /sensing/lidar/top/rectified/pointcloud_ex
+current time: 1677211891.766282502
+----------
+topic name: /sensing/lidar/top/outlier_filtered/pointcloud
+current time: 1677211891.783270567
+----------
+topic name: /localization/util/measurement_range/pointcloud
+current time: 1677211891.790934352
+----------
+topic name: /localization/util/voxel_grid_downsample/pointcloud
+current time: 1677211891.797675067
+----------
+topic name: /localization/util/downsample/pointcloud
+current time: 1677211891.797800016
+----------
+topic name: /sensing/lidar/top/self_cropped/pointcloud_ex
+current time: 1677211891.935728244
+----------
+topic name: /sensing/lidar/top/mirror_cropped/pointcloud_ex
+current time: 1677211891.942726269
+----------
+topic name: /sensing/lidar/top/rectified/pointcloud_ex
+current time: 1677211891.956488419
+----------
+topic name: /sensing/lidar/top/outlier_filtered/pointcloud
+current time: 1677211891.973175136
+----------
+topic name: /localization/util/measurement_range/pointcloud
+current time: 1677211891.976606439
+----------
+topic name: /localization/util/voxel_grid_downsample/pointcloud
+current time: 1677211891.984953104
+----------
+topic name: /localization/util/downsample/pointcloud
+current time: 1677211891.985118228
+----------
+topic name: /sensing/lidar/top/self_cropped/pointcloud_ex
+current time: 1677211892.165827737
+----------
+topic name: /sensing/lidar/top/mirror_cropped/pointcloud_ex
+current time: 1677211892.170468587
+----------
+topic name: /sensing/lidar/top/rectified/pointcloud_ex
+current time: 1677211892.184242608
+----------
+topic name: /sensing/lidar/top/outlier_filtered/pointcloud
+current time: 1677211892.202195778
+----------
+topic name: /localization/util/measurement_range/pointcloud
+current time: 1677211892.210535064
+----------
+topic name: /localization/util/voxel_grid_downsample/pointcloud
+current time: 1677211892.218213456
+----------
+topic name: /localization/util/downsample/pointcloud
+current time: 1677211892.218387758
+----------
+topic name: /sensing/lidar/top/self_cropped/pointcloud_ex
+current time: 1677211892.362441319
+----------
+topic name: /sensing/lidar/top/mirror_cropped/pointcloud_ex
+current time: 1677211892.371421147
+----------
+topic name: /sensing/lidar/top/rectified/pointcloud_ex
+current time: 1677211892.384449776
+----------
+topic name: /sensing/lidar/top/outlier_filtered/pointcloud
+current time: 1677211892.402946716
+----------
+topic name: /localization/util/measurement_range/pointcloud
+current time: 1677211892.408945158
+----------
+topic name: /localization/util/voxel_grid_downsample/pointcloud
+current time: 1677211892.417424991
+----------
+topic name: /localization/util/downsample/pointcloud
+current time: 1677211892.417636100
+----------
+topic name: /sensing/lidar/top/self_cropped/pointcloud_ex
+current time: 1677211892.558639578
+----------
+topic name: /sensing/lidar/top/mirror_cropped/pointcloud_ex
+current time: 1677211892.561642241
+----------
+topic name: /sensing/lidar/top/rectified/pointcloud_ex
+current time: 1677211892.575267665
+----------
+topic name: /sensing/lidar/top/outlier_filtered/pointcloud
+current time: 1677211892.587151054
+----------
+topic name: /localization/util/measurement_range/pointcloud
+current time: 1677211892.595317109
+----------
+topic name: /localization/util/voxel_grid_downsample/pointcloud
+current time: 1677211892.604363098
+----------
+topic name: /localization/util/downsample/pointcloud
+current time: 1677211892.604605003
+----------
+topic name: /sensing/lidar/top/self_cropped/pointcloud_ex
+current time: 1677211893.192923501
+----------
+topic name: /sensing/lidar/top/mirror_cropped/pointcloud_ex
+current time: 1677211893.203740432
+----------
+topic name: /sensing/lidar/top/rectified/pointcloud_ex
+current time: 1677211893.221435001
+----------
+topic name: /sensing/lidar/top/outlier_filtered/pointcloud
+current time: 1677211893.240825249
+----------
+topic name: /localization/util/measurement_range/pointcloud
+current time: 1677211893.248342425
+----------
+topic name: /localization/util/voxel_grid_downsample/pointcloud
+current time: 1677211893.257949804
+----------
+topic name: /localization/util/downsample/pointcloud
+current time: 1677211893.258294362
+----------
+topic name: /sensing/lidar/top/self_cropped/pointcloud_ex
+current time: 1677211893.399616709
+----------
+topic name: /sensing/lidar/top/mirror_cropped/pointcloud_ex
+current time: 1677211893.407190420
+----------
+topic name: /sensing/lidar/top/rectified/pointcloud_ex
+current time: 1677211893.422966264
+----------
+topic name: /sensing/lidar/top/outlier_filtered/pointcloud
+current time: 1677211893.440827568
+----------
+topic name: /localization/util/measurement_range/pointcloud
+current time: 1677211893.446408290
+----------
+topic name: /localization/util/voxel_grid_downsample/pointcloud
+current time: 1677211893.458036279
+----------
+topic name: /localization/util/downsample/pointcloud
+current time: 1677211893.458506504
+----------
+topic name: /sensing/lidar/top/self_cropped/pointcloud_ex
+current time: 1677211893.598931091
+----------
+topic name: /sensing/lidar/top/mirror_cropped/pointcloud_ex
+current time: 1677211893.603383498
+----------
+topic name: /sensing/lidar/top/rectified/pointcloud_ex
+current time: 1677211893.619276216
+----------
+topic name: /sensing/lidar/top/outlier_filtered/pointcloud
+current time: 1677211893.637659393
+----------
+topic name: /localization/util/measurement_range/pointcloud
+current time: 1677211893.641335207
+----------
+topic name: /localization/util/voxel_grid_downsample/pointcloud
+current time: 1677211893.656418718
+----------
+topic name: /localization/util/downsample/pointcloud
+current time: 1677211893.656632886
+----------
+topic name: /sensing/lidar/top/self_cropped/pointcloud_ex
+current time: 1677211893.808636321
+----------
+topic name: /sensing/lidar/top/mirror_cropped/pointcloud_ex
+current time: 1677211893.815959988
+----------
+topic name: /sensing/lidar/top/rectified/pointcloud_ex
+current time: 1677211893.829847507
+----------
+topic name: /sensing/lidar/top/outlier_filtered/pointcloud
+current time: 1677211893.849671501
+----------
+topic name: /localization/util/measurement_range/pointcloud
+current time: 1677211893.855349972
+----------
+topic name: /localization/util/voxel_grid_downsample/pointcloud
+current time: 1677211893.865279961
+----------
+topic name: /localization/util/downsample/pointcloud
+current time: 1677211893.865565003
+----------
+topic name: /sensing/lidar/top/self_cropped/pointcloud_ex
+current time: 1677211894.010322128
+----------
+topic name: /sensing/lidar/top/mirror_cropped/pointcloud_ex
+current time: 1677211894.014874267
+----------
+topic name: /sensing/lidar/top/rectified/pointcloud_ex
+current time: 1677211894.029358973
+----------
+topic name: /sensing/lidar/top/outlier_filtered/pointcloud
+current time: 1677211894.046537424
+----------
+topic name: /localization/util/measurement_range/pointcloud
+current time: 1677211894.051274535
+----------
+topic name: /localization/util/voxel_grid_downsample/pointcloud
+current time: 1677211894.059226750
+----------
+topic name: /localization/util/downsample/pointcloud
+current time: 1677211894.059479046
+----------
+topic name: /sensing/lidar/top/self_cropped/pointcloud_ex
+current time: 1677211894.620464281
+----------
+topic name: /sensing/lidar/top/mirror_cropped/pointcloud_ex
+current time: 1677211894.623136411
+----------
+topic name: /sensing/lidar/top/rectified/pointcloud_ex
+current time: 1677211894.638951388
+----------
+topic name: /sensing/lidar/top/outlier_filtered/pointcloud
+current time: 1677211894.657184814
+----------
+topic name: /localization/util/measurement_range/pointcloud
+current time: 1677211894.661165727
+----------
+topic name: /localization/util/voxel_grid_downsample/pointcloud
+current time: 1677211894.669591704
+----------
+topic name: /localization/util/downsample/pointcloud
+current time: 1677211894.669973036
+----------
+topic name: /sensing/lidar/top/self_cropped/pointcloud_ex
+current time: 1677211895.248041183
+----------
+topic name: /sensing/lidar/top/mirror_cropped/pointcloud_ex
+current time: 1677211895.254956112
+----------
+topic name: /sensing/lidar/top/rectified/pointcloud_ex
+current time: 1677211895.270173410
+----------
+topic name: /sensing/lidar/top/outlier_filtered/pointcloud
+current time: 1677211895.288610821
+----------
+topic name: /localization/util/measurement_range/pointcloud
+current time: 1677211895.292032122
+----------
+topic name: /localization/util/voxel_grid_downsample/pointcloud
+current time: 1677211895.300729806
+----------
+topic name: /localization/util/downsample/pointcloud
+current time: 1677211895.301008533
+----------
+topic name: /sensing/lidar/top/self_cropped/pointcloud_ex
+current time: 1677211896.485298037
+----------
+topic name: /sensing/lidar/top/mirror_cropped/pointcloud_ex
+current time: 1677211896.490589534
+----------
+topic name: /sensing/lidar/top/rectified/pointcloud_ex
+current time: 1677211896.505783440
+----------
+topic name: /sensing/lidar/top/outlier_filtered/pointcloud
+current time: 1677211896.531533530
+----------
+topic name: /localization/util/measurement_range/pointcloud
+current time: 1677211896.543506645
+----------
+topic name: /localization/util/voxel_grid_downsample/pointcloud
+current time: 1677211896.554926541
+----------
+topic name: /localization/util/downsample/pointcloud
+current time: 1677211896.555082870
+----------
+topic name: /sensing/lidar/top/self_cropped/pointcloud_ex
+current time: 1677211897.113290045
+----------
+topic name: /sensing/lidar/top/mirror_cropped/pointcloud_ex
+current time: 1677211897.118145653
+----------
+topic name: /sensing/lidar/top/rectified/pointcloud_ex
+current time: 1677211897.133922125
+----------
+topic name: /sensing/lidar/top/outlier_filtered/pointcloud
+current time: 1677211897.149964541
+----------
+topic name: /sensing/lidar/top/self_cropped/pointcloud_ex
+current time: 1677211897.339302749
+----------
+topic name: /sensing/lidar/top/mirror_cropped/pointcloud_ex
+current time: 1677211897.341600972
+----------
+topic name: /sensing/lidar/top/rectified/pointcloud_ex
+current time: 1677211897.357138971
+----------
+topic name: /sensing/lidar/top/outlier_filtered/pointcloud
+current time: 1677211897.377774255
+----------
+topic name: /localization/util/measurement_range/pointcloud
+current time: 1677211897.384002905
+----------
+topic name: /localization/util/voxel_grid_downsample/pointcloud
+current time: 1677211897.398857427
+----------
+topic name: /localization/util/downsample/pointcloud
+current time: 1677211897.399044523
+----------
+topic name: /sensing/lidar/top/self_cropped/pointcloud_ex
+current time: 1677211897.542059197
+----------
+topic name: /sensing/lidar/top/mirror_cropped/pointcloud_ex
+current time: 1677211897.544870969
+----------
+topic name: /sensing/lidar/top/rectified/pointcloud_ex
+current time: 1677211897.561394350
+----------
+topic name: /sensing/lidar/top/outlier_filtered/pointcloud
+current time: 1677211897.575548934
+----------
+topic name: /localization/util/measurement_range/pointcloud
+current time: 1677211897.584176063
+----------
+topic name: /localization/util/voxel_grid_downsample/pointcloud
+current time: 1677211897.600527804
+----------
+topic name: /localization/util/downsample/pointcloud
+current time: 1677211897.600631908
+----------
+topic name: /sensing/lidar/top/self_cropped/pointcloud_ex
+current time: 1677211897.749873575
+----------
+topic name: /sensing/lidar/top/mirror_cropped/pointcloud_ex
+current time: 1677211897.752813293
+----------
+topic name: /sensing/lidar/top/rectified/pointcloud_ex
+current time: 1677211897.768327646
+----------
+topic name: /sensing/lidar/top/outlier_filtered/pointcloud
+current time: 1677211897.794488188
+----------
+topic name: /localization/util/measurement_range/pointcloud
+current time: 1677211897.800366265
+----------
+topic name: /localization/util/voxel_grid_downsample/pointcloud
+current time: 1677211897.820461642
+----------
+topic name: /localization/util/downsample/pointcloud
+current time: 1677211897.820639811
+----------
+topic name: /sensing/lidar/top/self_cropped/pointcloud_ex
+current time: 1677211897.964676005
+----------
+topic name: /sensing/lidar/top/mirror_cropped/pointcloud_ex
+current time: 1677211897.972730265
+----------
+topic name: /sensing/lidar/top/rectified/pointcloud_ex
+current time: 1677211897.993848347
+----------
+topic name: /sensing/lidar/top/outlier_filtered/pointcloud
+current time: 1677211898.009553355
+----------
+topic name: /localization/util/measurement_range/pointcloud
+current time: 1677211898.018677644
+----------
+topic name: /localization/util/voxel_grid_downsample/pointcloud
+current time: 1677211898.026963782
+----------
+topic name: /localization/util/downsample/pointcloud
+current time: 1677211898.027099097
+----------
+topic name: /sensing/lidar/top/self_cropped/pointcloud_ex
+current time: 1677211898.140543114
+----------
+topic name: /sensing/lidar/top/mirror_cropped/pointcloud_ex
+current time: 1677211898.142562094
+----------
+topic name: /sensing/lidar/top/rectified/pointcloud_ex
+current time: 1677211898.162471732
+----------
+topic name: /sensing/lidar/top/outlier_filtered/pointcloud
+current time: 1677211898.177004983
+----------
+topic name: /localization/util/measurement_range/pointcloud
+current time: 1677211898.183348202
+----------
+topic name: /localization/util/voxel_grid_downsample/pointcloud
+current time: 1677211898.195748047
+----------
+topic name: /localization/util/downsample/pointcloud
+current time: 1677211898.195916838
+----------
+topic name: /sensing/lidar/top/self_cropped/pointcloud_ex
+current time: 1677211898.382197937
+----------
+topic name: /sensing/lidar/top/mirror_cropped/pointcloud_ex
+current time: 1677211898.391616522
+----------
+topic name: /sensing/lidar/top/rectified/pointcloud_ex
+current time: 1677211898.406259127
+----------
+topic name: /sensing/lidar/top/outlier_filtered/pointcloud
+current time: 1677211898.430452855
+----------
+topic name: /sensing/lidar/top/self_cropped/pointcloud_ex
+current time: 1677211898.582229605
+----------
+topic name: /sensing/lidar/top/mirror_cropped/pointcloud_ex
+current time: 1677211898.587178024
+----------
+topic name: /sensing/lidar/top/rectified/pointcloud_ex
+current time: 1677211898.602744631
+----------
+topic name: /sensing/lidar/top/outlier_filtered/pointcloud
+current time: 1677211898.622161665
+----------
+topic name: /localization/util/measurement_range/pointcloud
+current time: 1677211898.626554836
+----------
+topic name: /localization/util/voxel_grid_downsample/pointcloud
+current time: 1677211898.640004446
+----------
+topic name: /localization/util/downsample/pointcloud
+current time: 1677211898.640414254
+----------
+topic name: /sensing/lidar/top/self_cropped/pointcloud_ex
+current time: 1677211898.795878168
+----------
+topic name: /sensing/lidar/top/mirror_cropped/pointcloud_ex
+current time: 1677211898.801000108
+----------
+topic name: /sensing/lidar/top/rectified/pointcloud_ex
+current time: 1677211898.816417416
+----------
+topic name: /sensing/lidar/top/outlier_filtered/pointcloud
+current time: 1677211898.839049055
+----------
+topic name: /sensing/lidar/top/self_cropped/pointcloud_ex
+current time: 1677211898.984558869
+----------
+topic name: /sensing/lidar/top/mirror_cropped/pointcloud_ex
+current time: 1677211898.989455288
+----------
+topic name: /sensing/lidar/top/rectified/pointcloud_ex
+current time: 1677211899.005672628
+----------
+topic name: /sensing/lidar/top/outlier_filtered/pointcloud
+current time: 1677211899.022072811
+----------
+topic name: /sensing/lidar/top/self_cropped/pointcloud_ex
+current time: 1677211899.186085641
+----------
+topic name: /sensing/lidar/top/mirror_cropped/pointcloud_ex
+current time: 1677211899.191206613
+----------
+topic name: /sensing/lidar/top/rectified/pointcloud_ex
+current time: 1677211899.395733143
+----------
+topic name: /sensing/lidar/top/outlier_filtered/pointcloud
+current time: 1677211899.424260381
+----------
+topic name: /sensing/lidar/top/self_cropped/pointcloud_ex
+current time: 1677211899.429098585
+----------
+topic name: /sensing/lidar/top/mirror_cropped/pointcloud_ex
+current time: 1677211899.435880165
+----------
+topic name: /sensing/lidar/top/rectified/pointcloud_ex
+current time: 1677211899.456218814
+----------
+topic name: /sensing/lidar/top/outlier_filtered/pointcloud
+current time: 1677211899.470937637
+----------
+topic name: /sensing/lidar/top/self_cropped/pointcloud_ex
+current time: 1677211899.620685240
+----------
+topic name: /sensing/lidar/top/mirror_cropped/pointcloud_ex
+current time: 1677211899.625660477
+----------
+topic name: /sensing/lidar/top/rectified/pointcloud_ex
+current time: 1677211899.643746261
+----------
+topic name: /sensing/lidar/top/outlier_filtered/pointcloud
+current time: 1677211899.662300043
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211899.712067830
+----------
+topic name: /localization/kinematic_state
+current time: 1677211899.712546315
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211899.753442958
+----------
+topic name: /localization/kinematic_state
+current time: 1677211899.753694224
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211899.793990986
+----------
+topic name: /localization/kinematic_state
+current time: 1677211899.794297028
+----------
+topic name: /sensing/lidar/top/self_cropped/pointcloud_ex
+current time: 1677211899.807942514
+----------
+topic name: /sensing/lidar/top/mirror_cropped/pointcloud_ex
+current time: 1677211899.810275415
+----------
+topic name: /sensing/lidar/top/rectified/pointcloud_ex
+current time: 1677211899.826157569
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211899.834992703
+----------
+topic name: /localization/kinematic_state
+current time: 1677211899.835274340
+----------
+topic name: /sensing/lidar/top/outlier_filtered/pointcloud
+current time: 1677211899.842679476
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211899.875425656
+----------
+topic name: /localization/kinematic_state
+current time: 1677211899.875682735
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211899.915360136
+----------
+topic name: /localization/kinematic_state
+current time: 1677211899.915540969
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211899.955735217
+----------
+topic name: /localization/kinematic_state
+current time: 1677211899.955966526
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211899.996610110
+----------
+topic name: /localization/kinematic_state
+current time: 1677211899.996855431
+----------
+topic name: /sensing/lidar/top/self_cropped/pointcloud_ex
+current time: 1677211900.025756091
+----------
+topic name: /sensing/lidar/top/mirror_cropped/pointcloud_ex
+current time: 1677211900.029015089
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211900.037365371
+----------
+topic name: /localization/kinematic_state
+current time: 1677211900.037610770
+----------
+topic name: /sensing/lidar/top/rectified/pointcloud_ex
+current time: 1677211900.044718890
+----------
+topic name: /sensing/lidar/top/outlier_filtered/pointcloud
+current time: 1677211900.060277438
+----------
+topic name: /localization/util/measurement_range/pointcloud
+current time: 1677211900.067316625
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211900.079715695
+----------
+topic name: /localization/kinematic_state
+current time: 1677211900.079940132
+----------
+topic name: /localization/util/voxel_grid_downsample/pointcloud
+current time: 1677211900.081082857
+----------
+topic name: /localization/util/downsample/pointcloud
+current time: 1677211900.081188312
+----------
+topic name: /localization/pose_estimator/pose_with_covariance
+current time: 1677211900.092989034
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211900.118485702
+----------
+topic name: /localization/kinematic_state
+current time: 1677211900.118824128
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211900.159427365
+----------
+topic name: /localization/kinematic_state
+current time: 1677211900.159676380
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211900.199341314
+----------
+topic name: /localization/kinematic_state
+current time: 1677211900.199579546
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211900.220677907
+----------
+topic name: /localization/kinematic_state
+current time: 1677211900.220936754
+----------
+topic name: /sensing/lidar/top/self_cropped/pointcloud_ex
+current time: 1677211900.224793792
+----------
+topic name: /sensing/lidar/top/mirror_cropped/pointcloud_ex
+current time: 1677211900.229355291
+----------
+topic name: /sensing/lidar/top/rectified/pointcloud_ex
+current time: 1677211900.244807317
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211900.261151714
+----------
+topic name: /localization/kinematic_state
+current time: 1677211900.261398760
+----------
+topic name: /sensing/lidar/top/outlier_filtered/pointcloud
+current time: 1677211900.264216042
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211900.300664015
+----------
+topic name: /localization/kinematic_state
+current time: 1677211900.300870759
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211900.341908691
+----------
+topic name: /localization/kinematic_state
+current time: 1677211900.342101077
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211900.381507247
+----------
+topic name: /localization/kinematic_state
+current time: 1677211900.381749702
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211900.423318921
+----------
+topic name: /localization/kinematic_state
+current time: 1677211900.423618901
+----------
+topic name: /sensing/lidar/top/self_cropped/pointcloud_ex
+current time: 1677211900.450151070
+----------
+topic name: /sensing/lidar/top/mirror_cropped/pointcloud_ex
+current time: 1677211900.454055082
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211900.464418299
+----------
+topic name: /localization/kinematic_state
+current time: 1677211900.464621908
+----------
+topic name: /sensing/lidar/top/rectified/pointcloud_ex
+current time: 1677211900.473685456
+----------
+topic name: /sensing/lidar/top/outlier_filtered/pointcloud
+current time: 1677211900.493623338
+----------
+topic name: /localization/util/measurement_range/pointcloud
+current time: 1677211900.503735277
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211900.504263240
+----------
+topic name: /localization/kinematic_state
+current time: 1677211900.504606167
+----------
+topic name: /localization/util/voxel_grid_downsample/pointcloud
+current time: 1677211900.516411930
+----------
+topic name: /localization/util/downsample/pointcloud
+current time: 1677211900.516610303
+----------
+topic name: /localization/pose_estimator/pose_with_covariance
+current time: 1677211900.537114171
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211900.547345402
+----------
+topic name: /localization/kinematic_state
+current time: 1677211900.547671689
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211900.587116153
+----------
+topic name: /localization/kinematic_state
+current time: 1677211900.587344727
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211900.631291260
+----------
+topic name: /localization/kinematic_state
+current time: 1677211900.631784976
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211900.667733101
+----------
+topic name: /localization/kinematic_state
+current time: 1677211900.667955260
+----------
+topic name: /sensing/lidar/top/self_cropped/pointcloud_ex
+current time: 1677211900.677068296
+----------
+topic name: /sensing/lidar/top/mirror_cropped/pointcloud_ex
+current time: 1677211900.687143471
+----------
+topic name: /sensing/lidar/top/rectified/pointcloud_ex
+current time: 1677211900.703514220
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211900.707907966
+----------
+topic name: /localization/kinematic_state
+current time: 1677211900.708299969
+----------
+topic name: /sensing/lidar/top/outlier_filtered/pointcloud
+current time: 1677211900.722052110
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211900.747900784
+----------
+topic name: /localization/kinematic_state
+current time: 1677211900.748137978
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211900.790405528
+----------
+topic name: /localization/kinematic_state
+current time: 1677211900.790626459
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211900.830855930
+----------
+topic name: /localization/kinematic_state
+current time: 1677211900.831279779
+----------
+topic name: /sensing/lidar/top/self_cropped/pointcloud_ex
+current time: 1677211900.861561507
+----------
+topic name: /sensing/lidar/top/mirror_cropped/pointcloud_ex
+current time: 1677211900.865629381
+----------
+topic name: /sensing/lidar/top/rectified/pointcloud_ex
+current time: 1677211900.879217023
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211900.899827093
+----------
+topic name: /localization/kinematic_state
+current time: 1677211900.900088691
+----------
+topic name: /sensing/lidar/top/outlier_filtered/pointcloud
+current time: 1677211900.902351557
+----------
+topic name: /localization/util/measurement_range/pointcloud
+current time: 1677211900.911269194
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211900.913318402
+----------
+topic name: /localization/kinematic_state
+current time: 1677211900.913557770
+----------
+topic name: /localization/util/voxel_grid_downsample/pointcloud
+current time: 1677211900.926330961
+----------
+topic name: /localization/util/downsample/pointcloud
+current time: 1677211900.926843099
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211900.953291608
+----------
+topic name: /localization/kinematic_state
+current time: 1677211900.953799841
+----------
+topic name: /localization/pose_estimator/pose_with_covariance
+current time: 1677211900.974417124
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211900.993406093
+----------
+topic name: /localization/kinematic_state
+current time: 1677211900.993636574
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211901.033031284
+----------
+topic name: /localization/kinematic_state
+current time: 1677211901.033350137
+----------
+topic name: /sensing/lidar/top/self_cropped/pointcloud_ex
+current time: 1677211901.070066297
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211901.074776378
+----------
+topic name: /localization/kinematic_state
+current time: 1677211901.075033559
+----------
+topic name: /sensing/lidar/top/mirror_cropped/pointcloud_ex
+current time: 1677211901.076395382
+----------
+topic name: /sensing/lidar/top/rectified/pointcloud_ex
+current time: 1677211901.099026009
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211901.116483283
+----------
+topic name: /localization/kinematic_state
+current time: 1677211901.116805016
+----------
+topic name: /sensing/lidar/top/outlier_filtered/pointcloud
+current time: 1677211901.128171215
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211901.156593002
+----------
+topic name: /localization/kinematic_state
+current time: 1677211901.156900246
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211901.195573695
+----------
+topic name: /localization/kinematic_state
+current time: 1677211901.195813429
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211901.236932624
+----------
+topic name: /localization/kinematic_state
+current time: 1677211901.237372425
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211901.286886799
+----------
+topic name: /localization/kinematic_state
+current time: 1677211901.287160772
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211901.317396923
+----------
+topic name: /localization/kinematic_state
+current time: 1677211901.317664055
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211901.359049656
+----------
+topic name: /localization/kinematic_state
+current time: 1677211901.360141112
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211901.400640798
+----------
+topic name: /localization/kinematic_state
+current time: 1677211901.400906074
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211901.440434439
+----------
+topic name: /localization/kinematic_state
+current time: 1677211901.440617759
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211901.459554816
+----------
+topic name: /localization/kinematic_state
+current time: 1677211901.459886678
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211901.506031756
+----------
+topic name: /localization/kinematic_state
+current time: 1677211901.506271436
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211901.549404214
+----------
+topic name: /localization/kinematic_state
+current time: 1677211901.549819695
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211901.584558906
+----------
+topic name: /localization/kinematic_state
+current time: 1677211901.584902535
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211901.622204073
+----------
+topic name: /localization/kinematic_state
+current time: 1677211901.622906118
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211901.662462043
+----------
+topic name: /localization/kinematic_state
+current time: 1677211901.662691295
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211901.703324478
+----------
+topic name: /localization/kinematic_state
+current time: 1677211901.704339398
+----------
+topic name: /sensing/lidar/top/self_cropped/pointcloud_ex
+current time: 1677211901.714726756
+----------
+topic name: /sensing/lidar/top/mirror_cropped/pointcloud_ex
+current time: 1677211901.719679175
+----------
+topic name: /sensing/lidar/top/rectified/pointcloud_ex
+current time: 1677211901.740532080
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211901.743695772
+----------
+topic name: /localization/kinematic_state
+current time: 1677211901.743894959
+----------
+topic name: /sensing/lidar/top/outlier_filtered/pointcloud
+current time: 1677211901.761031072
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211901.803020901
+----------
+topic name: /localization/kinematic_state
+current time: 1677211901.809094927
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211901.827131915
+----------
+topic name: /localization/kinematic_state
+current time: 1677211901.827641564
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211901.868398014
+----------
+topic name: /localization/kinematic_state
+current time: 1677211901.868745050
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211901.906091544
+----------
+topic name: /localization/kinematic_state
+current time: 1677211901.906360827
+----------
+topic name: /sensing/lidar/top/self_cropped/pointcloud_ex
+current time: 1677211901.917668439
+----------
+topic name: /sensing/lidar/top/mirror_cropped/pointcloud_ex
+current time: 1677211901.926588395
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211901.946627484
+----------
+topic name: /localization/kinematic_state
+current time: 1677211901.947017343
+----------
+topic name: /sensing/lidar/top/rectified/pointcloud_ex
+current time: 1677211901.947584118
+----------
+topic name: /sensing/lidar/top/outlier_filtered/pointcloud
+current time: 1677211901.970759033
+----------
+topic name: /localization/util/measurement_range/pointcloud
+current time: 1677211901.978338328
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211901.988206996
+----------
+topic name: /localization/kinematic_state
+current time: 1677211901.988486764
+----------
+topic name: /localization/util/voxel_grid_downsample/pointcloud
+current time: 1677211901.996106870
+----------
+topic name: /localization/util/downsample/pointcloud
+current time: 1677211901.996392305
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211902.028998186
+----------
+topic name: /localization/kinematic_state
+current time: 1677211902.029332007
+----------
+topic name: /localization/pose_estimator/pose_with_covariance
+current time: 1677211902.044248909
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211902.071518667
+----------
+topic name: /localization/kinematic_state
+current time: 1677211902.071749840
+----------
+topic name: /sensing/lidar/top/self_cropped/pointcloud_ex
+current time: 1677211902.108444145
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211902.112772552
+----------
+topic name: /localization/kinematic_state
+current time: 1677211902.113041774
+----------
+topic name: /sensing/lidar/top/mirror_cropped/pointcloud_ex
+current time: 1677211902.114578391
+----------
+topic name: /sensing/lidar/top/rectified/pointcloud_ex
+current time: 1677211902.132444331
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211902.150468058
+----------
+topic name: /localization/kinematic_state
+current time: 1677211902.150820338
+----------
+topic name: /sensing/lidar/top/outlier_filtered/pointcloud
+current time: 1677211902.160718423
+----------
+topic name: /localization/util/measurement_range/pointcloud
+current time: 1677211902.171411285
+----------
+topic name: /localization/util/voxel_grid_downsample/pointcloud
+current time: 1677211902.185500651
+----------
+topic name: /localization/util/downsample/pointcloud
+current time: 1677211902.185769722
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211902.192446058
+----------
+topic name: /localization/kinematic_state
+current time: 1677211902.193138261
+----------
+topic name: /localization/pose_estimator/pose_with_covariance
+current time: 1677211902.203431672
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211902.233104462
+----------
+topic name: /localization/kinematic_state
+current time: 1677211902.233474212
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211902.276250292
+----------
+topic name: /localization/kinematic_state
+current time: 1677211902.278213218
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211902.314134204
+----------
+topic name: /localization/kinematic_state
+current time: 1677211902.316496715
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211902.354678256
+----------
+topic name: /localization/kinematic_state
+current time: 1677211902.354953456
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211902.400986009
+----------
+topic name: /localization/kinematic_state
+current time: 1677211902.401489326
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211902.435922408
+----------
+topic name: /localization/kinematic_state
+current time: 1677211902.448735953
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211902.478149127
+----------
+topic name: /localization/kinematic_state
+current time: 1677211902.478385549
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211902.517703673
+----------
+topic name: /localization/kinematic_state
+current time: 1677211902.518008419
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211902.556667100
+----------
+topic name: /localization/kinematic_state
+current time: 1677211902.556900546
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211902.636884438
+----------
+topic name: /localization/kinematic_state
+current time: 1677211902.637104401
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211902.643450812
+----------
+topic name: /localization/kinematic_state
+current time: 1677211902.644550535
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211902.679309185
+----------
+topic name: /localization/kinematic_state
+current time: 1677211902.679523896
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211902.720131015
+----------
+topic name: /localization/kinematic_state
+current time: 1677211902.720558015
+----------
+topic name: /planning/scenario_planning/scenario_selector/trajectory
+current time: 1677211902.726728789
+----------
+topic name: /planning/scenario_planning/trajectory
+current time: 1677211902.740569951
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211902.760114212
+----------
+topic name: /localization/kinematic_state
+current time: 1677211902.760470993
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211902.780256474
+----------
+topic name: /localization/kinematic_state
+current time: 1677211902.780484406
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211902.821773463
+----------
+topic name: /localization/kinematic_state
+current time: 1677211902.822107166
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211902.904577373
+----------
+topic name: /localization/kinematic_state
+current time: 1677211902.905079722
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211902.908147452
+----------
+topic name: /localization/kinematic_state
+current time: 1677211902.908741322
+----------
+topic name: /planning/scenario_planning/scenario_selector/trajectory
+current time: 1677211902.918952817
+----------
+topic name: /planning/scenario_planning/trajectory
+current time: 1677211902.929796044
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211902.942925225
+----------
+topic name: /localization/kinematic_state
+current time: 1677211902.943379549
+----------
+topic name: /sensing/lidar/top/self_cropped/pointcloud_ex
+current time: 1677211902.943492011
+----------
+topic name: /sensing/lidar/top/mirror_cropped/pointcloud_ex
+current time: 1677211902.947658858
+----------
+topic name: /sensing/lidar/top/rectified/pointcloud_ex
+current time: 1677211902.966203697
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211902.981450746
+----------
+topic name: /localization/kinematic_state
+current time: 1677211902.981659627
+----------
+topic name: /sensing/lidar/top/outlier_filtered/pointcloud
+current time: 1677211902.986956286
+----------
+topic name: /localization/util/measurement_range/pointcloud
+current time: 1677211902.994007110
+----------
+topic name: /localization/util/voxel_grid_downsample/pointcloud
+current time: 1677211903.008228344
+----------
+topic name: /localization/util/downsample/pointcloud
+current time: 1677211903.008391374
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211903.024059305
+----------
+topic name: /localization/kinematic_state
+current time: 1677211903.024485429
+----------
+topic name: /localization/pose_estimator/pose_with_covariance
+current time: 1677211903.045103109
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211903.064486589
+----------
+topic name: /localization/kinematic_state
+current time: 1677211903.064696908
+----------
+topic name: /planning/scenario_planning/scenario_selector/trajectory
+current time: 1677211903.078057392
+----------
+topic name: /planning/scenario_planning/trajectory
+current time: 1677211903.088146884
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211903.104857247
+----------
+topic name: /localization/kinematic_state
+current time: 1677211903.105396910
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211903.144926326
+----------
+topic name: /localization/kinematic_state
+current time: 1677211903.145186889
+----------
+topic name: /sensing/lidar/top/self_cropped/pointcloud_ex
+current time: 1677211903.146826596
+----------
+topic name: /sensing/lidar/top/mirror_cropped/pointcloud_ex
+current time: 1677211903.152747278
+----------
+topic name: /sensing/lidar/top/rectified/pointcloud_ex
+current time: 1677211903.170415044
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211903.185562591
+----------
+topic name: /localization/kinematic_state
+current time: 1677211903.185772972
+----------
+topic name: /sensing/lidar/top/outlier_filtered/pointcloud
+current time: 1677211903.188542158
+----------
+topic name: /localization/util/measurement_range/pointcloud
+current time: 1677211903.194241000
+----------
+topic name: /localization/util/voxel_grid_downsample/pointcloud
+current time: 1677211903.206564035
+----------
+topic name: /localization/util/downsample/pointcloud
+current time: 1677211903.206808001
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211903.229439524
+----------
+topic name: /localization/kinematic_state
+current time: 1677211903.229902515
+----------
+topic name: /localization/pose_estimator/pose_with_covariance
+current time: 1677211903.232356545
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211903.267722748
+----------
+topic name: /localization/kinematic_state
+current time: 1677211903.267979080
+----------
+topic name: /planning/scenario_planning/scenario_selector/trajectory
+current time: 1677211903.284295321
+----------
+topic name: /planning/scenario_planning/trajectory
+current time: 1677211903.292422219
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211903.308824101
+----------
+topic name: /localization/kinematic_state
+current time: 1677211903.309062068
+----------
+topic name: /sensing/lidar/top/self_cropped/pointcloud_ex
+current time: 1677211903.342716248
+----------
+topic name: /sensing/lidar/top/mirror_cropped/pointcloud_ex
+current time: 1677211903.347797492
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211903.348277136
+----------
+topic name: /localization/kinematic_state
+current time: 1677211903.348533336
+----------
+topic name: /sensing/lidar/top/rectified/pointcloud_ex
+current time: 1677211903.363585954
+----------
+topic name: /sensing/lidar/top/outlier_filtered/pointcloud
+current time: 1677211903.385684019
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211903.393292144
+----------
+topic name: /localization/kinematic_state
+current time: 1677211903.393568355
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211903.428948052
+----------
+topic name: /localization/kinematic_state
+current time: 1677211903.429187142
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211903.470647040
+----------
+topic name: /localization/kinematic_state
+current time: 1677211903.470905670
+----------
+topic name: /planning/scenario_planning/scenario_selector/trajectory
+current time: 1677211903.487790470
+----------
+topic name: /planning/scenario_planning/trajectory
+current time: 1677211903.501878480
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211903.519859550
+----------
+topic name: /localization/kinematic_state
+current time: 1677211903.521706683
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211903.552526264
+----------
+topic name: /localization/kinematic_state
+current time: 1677211903.552848956
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211903.593513799
+----------
+topic name: /localization/kinematic_state
+current time: 1677211903.593789775
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211903.633078543
+----------
+topic name: /localization/kinematic_state
+current time: 1677211903.633351667
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211903.674241474
+----------
+topic name: /localization/kinematic_state
+current time: 1677211903.674523264
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211903.714558664
+----------
+topic name: /localization/kinematic_state
+current time: 1677211903.714839631
+----------
+topic name: /planning/scenario_planning/scenario_selector/trajectory
+current time: 1677211903.719508078
+----------
+topic name: /planning/scenario_planning/trajectory
+current time: 1677211903.727718241
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211903.754633810
+----------
+topic name: /localization/kinematic_state
+current time: 1677211903.754874195
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211903.796278674
+----------
+topic name: /localization/kinematic_state
+current time: 1677211903.796859245
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211903.836965752
+----------
+topic name: /localization/kinematic_state
+current time: 1677211903.837414850
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211903.875983054
+----------
+topic name: /localization/kinematic_state
+current time: 1677211903.876232097
+----------
+topic name: /planning/scenario_planning/scenario_selector/trajectory
+current time: 1677211903.889323092
+----------
+topic name: /planning/scenario_planning/trajectory
+current time: 1677211903.896103190
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211903.917091470
+----------
+topic name: /localization/kinematic_state
+current time: 1677211903.917347165
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211903.958100415
+----------
+topic name: /localization/kinematic_state
+current time: 1677211903.958550157
+----------
+topic name: /sensing/lidar/top/self_cropped/pointcloud_ex
+current time: 1677211903.990686789
+----------
+topic name: /sensing/lidar/top/mirror_cropped/pointcloud_ex
+current time: 1677211903.999327603
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211904.001204455
+----------
+topic name: /localization/kinematic_state
+current time: 1677211904.001757263
+----------
+topic name: /sensing/lidar/top/rectified/pointcloud_ex
+current time: 1677211904.020115299
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211904.039186659
+----------
+topic name: /localization/kinematic_state
+current time: 1677211904.039427255
+----------
+topic name: /sensing/lidar/top/outlier_filtered/pointcloud
+current time: 1677211904.042579371
+----------
+topic name: /localization/util/measurement_range/pointcloud
+current time: 1677211904.049628750
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211904.062824119
+----------
+topic name: /localization/kinematic_state
+current time: 1677211904.063098902
+----------
+topic name: /localization/util/voxel_grid_downsample/pointcloud
+current time: 1677211904.068006767
+----------
+topic name: /localization/util/downsample/pointcloud
+current time: 1677211904.068334794
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211904.104352262
+----------
+topic name: /localization/kinematic_state
+current time: 1677211904.104847452
+----------
+topic name: /localization/pose_estimator/pose_with_covariance
+current time: 1677211904.106344750
+----------
+topic name: /planning/scenario_planning/scenario_selector/trajectory
+current time: 1677211904.116728475
+----------
+topic name: /planning/scenario_planning/trajectory
+current time: 1677211904.130811362
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211904.141423613
+----------
+topic name: /localization/kinematic_state
+current time: 1677211904.141731306
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211904.188096677
+----------
+topic name: /localization/kinematic_state
+current time: 1677211904.188657042
+----------
+topic name: /sensing/lidar/top/self_cropped/pointcloud_ex
+current time: 1677211904.201136898
+----------
+topic name: /sensing/lidar/top/mirror_cropped/pointcloud_ex
+current time: 1677211904.208334883
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211904.225045264
+----------
+topic name: /localization/kinematic_state
+current time: 1677211904.225286776
+----------
+topic name: /sensing/lidar/top/rectified/pointcloud_ex
+current time: 1677211904.227802516
+----------
+topic name: /sensing/lidar/top/outlier_filtered/pointcloud
+current time: 1677211904.251737633
+----------
+topic name: /localization/util/measurement_range/pointcloud
+current time: 1677211904.264758267
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211904.265460959
+----------
+topic name: /localization/kinematic_state
+current time: 1677211904.265701007
+----------
+topic name: /localization/util/voxel_grid_downsample/pointcloud
+current time: 1677211904.282280067
+----------
+topic name: /localization/util/downsample/pointcloud
+current time: 1677211904.283156457
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211904.305033935
+----------
+topic name: /localization/kinematic_state
+current time: 1677211904.305286315
+----------
+topic name: /localization/pose_estimator/pose_with_covariance
+current time: 1677211904.312684556
+----------
+topic name: /planning/scenario_planning/scenario_selector/trajectory
+current time: 1677211904.313219671
+----------
+topic name: /planning/scenario_planning/trajectory
+current time: 1677211904.330680208
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211904.344656292
+----------
+topic name: /localization/kinematic_state
+current time: 1677211904.345155958
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211904.387396364
+----------
+topic name: /localization/kinematic_state
+current time: 1677211904.387827956
+----------
+topic name: /sensing/lidar/top/self_cropped/pointcloud_ex
+current time: 1677211904.421973623
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211904.430648668
+----------
+topic name: /localization/kinematic_state
+current time: 1677211904.431130636
+----------
+topic name: /sensing/lidar/top/mirror_cropped/pointcloud_ex
+current time: 1677211904.437312660
+----------
+topic name: /sensing/lidar/top/rectified/pointcloud_ex
+current time: 1677211904.462013686
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211904.467793752
+----------
+topic name: /localization/kinematic_state
+current time: 1677211904.468090248
+----------
+topic name: /sensing/lidar/top/outlier_filtered/pointcloud
+current time: 1677211904.492470268
+----------
+topic name: /localization/util/measurement_range/pointcloud
+current time: 1677211904.501246565
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211904.520273056
+----------
+topic name: /localization/kinematic_state
+current time: 1677211904.520599865
+----------
+topic name: /localization/util/voxel_grid_downsample/pointcloud
+current time: 1677211904.522307729
+----------
+topic name: /localization/util/downsample/pointcloud
+current time: 1677211904.522780511
+----------
+topic name: /planning/scenario_planning/scenario_selector/trajectory
+current time: 1677211904.536538021
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211904.547220885
+----------
+topic name: /localization/kinematic_state
+current time: 1677211904.548287462
+----------
+topic name: /planning/scenario_planning/trajectory
+current time: 1677211904.556569193
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211904.590627565
+----------
+topic name: /localization/kinematic_state
+current time: 1677211904.590896488
+----------
+topic name: /localization/pose_estimator/pose_with_covariance
+current time: 1677211904.609431966
+----------
+topic name: /sensing/lidar/top/self_cropped/pointcloud_ex
+current time: 1677211904.629057336
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211904.631302384
+----------
+topic name: /localization/kinematic_state
+current time: 1677211904.631560240
+----------
+topic name: /sensing/lidar/top/mirror_cropped/pointcloud_ex
+current time: 1677211904.639329296
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211904.641498107
+----------
+topic name: /sensing/lidar/top/rectified/pointcloud_ex
+current time: 1677211904.660963392
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211904.671213387
+----------
+topic name: /localization/kinematic_state
+current time: 1677211904.671760504
+----------
+topic name: /sensing/lidar/top/outlier_filtered/pointcloud
+current time: 1677211904.695304268
+----------
+topic name: /planning/scenario_planning/scenario_selector/trajectory
+current time: 1677211904.702362370
+----------
+topic name: /localization/util/measurement_range/pointcloud
+current time: 1677211904.703840878
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211904.719519325
+----------
+topic name: /planning/scenario_planning/trajectory
+current time: 1677211904.719764254
+----------
+topic name: /localization/kinematic_state
+current time: 1677211904.719912774
+----------
+topic name: /localization/util/voxel_grid_downsample/pointcloud
+current time: 1677211904.729514521
+----------
+topic name: /localization/util/downsample/pointcloud
+current time: 1677211904.730231925
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211904.752316731
+----------
+topic name: /localization/kinematic_state
+current time: 1677211904.752570185
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211904.790631975
+----------
+topic name: /localization/kinematic_state
+current time: 1677211904.790913516
+----------
+topic name: /localization/pose_estimator/pose_with_covariance
+current time: 1677211904.791848574
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211904.834294853
+----------
+topic name: /localization/kinematic_state
+current time: 1677211904.834560956
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211904.902586576
+----------
+topic name: /localization/kinematic_state
+current time: 1677211904.903082450
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211904.914184611
+----------
+topic name: /localization/kinematic_state
+current time: 1677211904.914678541
+----------
+topic name: /planning/scenario_planning/scenario_selector/trajectory
+current time: 1677211904.934685386
+----------
+topic name: /planning/scenario_planning/trajectory
+current time: 1677211904.948553420
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211904.954697131
+----------
+topic name: /localization/kinematic_state
+current time: 1677211904.955040238
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211904.993915293
+----------
+topic name: /localization/kinematic_state
+current time: 1677211904.994141963
+----------
+topic name: /localization/kinematic_state
+current time: 1677211905.036449752
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211905.036608522
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211905.055988609
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211905.074651798
+----------
+topic name: /localization/kinematic_state
+current time: 1677211905.074924375
+----------
+topic name: /planning/scenario_planning/scenario_selector/trajectory
+current time: 1677211905.092014129
+----------
+topic name: /planning/scenario_planning/trajectory
+current time: 1677211905.102106016
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211905.126244100
+----------
+topic name: /localization/kinematic_state
+current time: 1677211905.126509466
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211905.155357913
+----------
+topic name: /localization/kinematic_state
+current time: 1677211905.155669725
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211905.219200710
+----------
+topic name: /localization/kinematic_state
+current time: 1677211905.222028611
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211905.241917149
+----------
+topic name: /localization/kinematic_state
+current time: 1677211905.242326907
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211905.281593878
+----------
+topic name: /localization/kinematic_state
+current time: 1677211905.282363803
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211905.312304679
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211905.321981048
+----------
+topic name: /localization/kinematic_state
+current time: 1677211905.322292369
+----------
+topic name: /planning/scenario_planning/scenario_selector/trajectory
+current time: 1677211905.332162562
+----------
+topic name: /planning/scenario_planning/trajectory
+current time: 1677211905.344196056
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211905.360793917
+----------
+topic name: /localization/kinematic_state
+current time: 1677211905.361058492
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211905.361184265
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211905.400356518
+----------
+topic name: /localization/kinematic_state
+current time: 1677211905.400663686
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211905.421168675
+----------
+topic name: /localization/kinematic_state
+current time: 1677211905.421486498
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211905.423908577
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211905.462283913
+----------
+topic name: /localization/kinematic_state
+current time: 1677211905.462620055
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211905.463140065
+----------
+topic name: /planning/scenario_planning/scenario_selector/trajectory
+current time: 1677211905.477011194
+----------
+topic name: /planning/scenario_planning/trajectory
+current time: 1677211905.485248816
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211905.501963971
+----------
+topic name: /localization/kinematic_state
+current time: 1677211905.502335196
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211905.521581998
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211905.542826676
+----------
+topic name: /localization/kinematic_state
+current time: 1677211905.543072288
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211905.582001010
+----------
+topic name: /localization/kinematic_state
+current time: 1677211905.582227304
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211905.583067365
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211905.622488182
+----------
+topic name: /localization/kinematic_state
+current time: 1677211905.622740210
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211905.643972185
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211905.664020607
+----------
+topic name: /localization/kinematic_state
+current time: 1677211905.664420185
+----------
+topic name: /planning/scenario_planning/scenario_selector/trajectory
+current time: 1677211905.675781122
+----------
+topic name: /planning/scenario_planning/trajectory
+current time: 1677211905.683208254
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211905.704119859
+----------
+topic name: /localization/kinematic_state
+current time: 1677211905.704412769
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211905.704514272
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211905.744125738
+----------
+topic name: /localization/kinematic_state
+current time: 1677211905.744455568
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211905.764100489
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211905.784858297
+----------
+topic name: /localization/kinematic_state
+current time: 1677211905.785119748
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211905.825819332
+----------
+topic name: /localization/kinematic_state
+current time: 1677211905.826107925
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211905.826397211
+----------
+topic name: /sensing/lidar/top/self_cropped/pointcloud_ex
+current time: 1677211905.857770370
+----------
+topic name: /sensing/lidar/top/mirror_cropped/pointcloud_ex
+current time: 1677211905.862707787
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211905.866436916
+----------
+topic name: /localization/kinematic_state
+current time: 1677211905.866944643
+----------
+topic name: /sensing/lidar/top/rectified/pointcloud_ex
+current time: 1677211905.881703823
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211905.887290316
+----------
+topic name: /sensing/lidar/top/outlier_filtered/pointcloud
+current time: 1677211905.899998749
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211905.908615632
+----------
+topic name: /localization/kinematic_state
+current time: 1677211905.908967102
+----------
+topic name: /localization/util/measurement_range/pointcloud
+current time: 1677211905.910171177
+----------
+topic name: /localization/util/voxel_grid_downsample/pointcloud
+current time: 1677211905.924535041
+----------
+topic name: /localization/util/downsample/pointcloud
+current time: 1677211905.924838236
+----------
+topic name: /planning/scenario_planning/scenario_selector/trajectory
+current time: 1677211905.929301779
+----------
+topic name: /planning/scenario_planning/trajectory
+current time: 1677211905.938085421
+----------
+topic name: /localization/pose_estimator/pose_with_covariance
+current time: 1677211905.941319898
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211905.950704750
+----------
+topic name: /localization/kinematic_state
+current time: 1677211905.950944936
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211905.951250579
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211905.990657754
+----------
+topic name: /localization/kinematic_state
+current time: 1677211905.990954319
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211906.009680690
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211906.030610942
+----------
+topic name: /localization/kinematic_state
+current time: 1677211906.030955589
+----------
+topic name: /sensing/lidar/top/self_cropped/pointcloud_ex
+current time: 1677211906.043569801
+----------
+topic name: /sensing/lidar/top/mirror_cropped/pointcloud_ex
+current time: 1677211906.052038163
+----------
+topic name: /sensing/lidar/top/rectified/pointcloud_ex
+current time: 1677211906.068816612
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211906.069737254
+----------
+topic name: /localization/kinematic_state
+current time: 1677211906.070014496
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211906.072168970
+----------
+topic name: /planning/scenario_planning/scenario_selector/trajectory
+current time: 1677211906.090162716
+----------
+topic name: /sensing/lidar/top/outlier_filtered/pointcloud
+current time: 1677211906.091416815
+----------
+topic name: /localization/util/measurement_range/pointcloud
+current time: 1677211906.097163857
+----------
+topic name: /planning/scenario_planning/trajectory
+current time: 1677211906.099259699
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211906.115164881
+----------
+topic name: /localization/kinematic_state
+current time: 1677211906.115433551
+----------
+topic name: /localization/util/voxel_grid_downsample/pointcloud
+current time: 1677211906.115508157
+----------
+topic name: /localization/util/downsample/pointcloud
+current time: 1677211906.115813843
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211906.131070250
+----------
+topic name: /localization/pose_estimator/pose_with_covariance
+current time: 1677211906.145165390
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211906.150602209
+----------
+topic name: /localization/kinematic_state
+current time: 1677211906.150811698
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211906.192493751
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211906.192746239
+----------
+topic name: /localization/kinematic_state
+current time: 1677211906.192852464
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211906.232083422
+----------
+topic name: /localization/kinematic_state
+current time: 1677211906.232391318
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211906.251795250
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211906.279909491
+----------
+topic name: /localization/kinematic_state
+current time: 1677211906.280308447
+----------
+topic name: /sensing/lidar/top/self_cropped/pointcloud_ex
+current time: 1677211906.284414715
+----------
+topic name: /sensing/lidar/top/mirror_cropped/pointcloud_ex
+current time: 1677211906.286697483
+----------
+topic name: /planning/scenario_planning/scenario_selector/trajectory
+current time: 1677211906.293841440
+----------
+topic name: /planning/scenario_planning/trajectory
+current time: 1677211906.300699317
+----------
+topic name: /sensing/lidar/top/rectified/pointcloud_ex
+current time: 1677211906.303746804
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211906.312743669
+----------
+topic name: /localization/kinematic_state
+current time: 1677211906.312993462
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211906.313975164
+----------
+topic name: /sensing/lidar/top/outlier_filtered/pointcloud
+current time: 1677211906.322369039
+----------
+topic name: /localization/util/measurement_range/pointcloud
+current time: 1677211906.328602442
+----------
+topic name: /localization/util/voxel_grid_downsample/pointcloud
+current time: 1677211906.347312991
+----------
+topic name: /localization/util/downsample/pointcloud
+current time: 1677211906.347655781
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211906.353354407
+----------
+topic name: /localization/kinematic_state
+current time: 1677211906.353565317
+----------
+topic name: /localization/pose_estimator/pose_with_covariance
+current time: 1677211906.374728112
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211906.374944697
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211906.398693243
+----------
+topic name: /localization/kinematic_state
+current time: 1677211906.398981699
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211906.436203378
+----------
+topic name: /localization/kinematic_state
+current time: 1677211906.436476112
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211906.437408500
+----------
+topic name: /sensing/lidar/top/self_cropped/pointcloud_ex
+current time: 1677211906.443578671
+----------
+topic name: /sensing/lidar/top/mirror_cropped/pointcloud_ex
+current time: 1677211906.449607989
+----------
+topic name: /sensing/lidar/top/rectified/pointcloud_ex
+current time: 1677211906.468223996
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211906.477461826
+----------
+topic name: /localization/kinematic_state
+current time: 1677211906.477875785
+----------
+topic name: /planning/scenario_planning/scenario_selector/trajectory
+current time: 1677211906.492495548
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211906.496992185
+----------
+topic name: /sensing/lidar/top/outlier_filtered/pointcloud
+current time: 1677211906.499464419
+----------
+topic name: /planning/scenario_planning/trajectory
+current time: 1677211906.501871977
+----------
+topic name: /localization/util/measurement_range/pointcloud
+current time: 1677211906.504841581
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211906.516643883
+----------
+topic name: /localization/kinematic_state
+current time: 1677211906.516911705
+----------
+topic name: /localization/util/voxel_grid_downsample/pointcloud
+current time: 1677211906.518982044
+----------
+topic name: /localization/util/downsample/pointcloud
+current time: 1677211906.519112671
+----------
+topic name: /localization/pose_estimator/pose_with_covariance
+current time: 1677211906.555846724
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211906.556276589
+----------
+topic name: /localization/kinematic_state
+current time: 1677211906.556453691
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211906.557489871
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211906.600961638
+----------
+topic name: /localization/kinematic_state
+current time: 1677211906.601310752
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211906.618811587
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211906.640641521
+----------
+topic name: /localization/kinematic_state
+current time: 1677211906.640831236
+----------
+topic name: /sensing/lidar/top/self_cropped/pointcloud_ex
+current time: 1677211906.656202296
+----------
+topic name: /sensing/lidar/top/mirror_cropped/pointcloud_ex
+current time: 1677211906.671637250
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211906.677994588
+----------
+topic name: /localization/kinematic_state
+current time: 1677211906.678178830
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211906.679102805
+----------
+topic name: /sensing/lidar/top/rectified/pointcloud_ex
+current time: 1677211906.689608652
+----------
+topic name: /planning/scenario_planning/scenario_selector/trajectory
+current time: 1677211906.695204710
+----------
+topic name: /planning/scenario_planning/trajectory
+current time: 1677211906.703102661
+----------
+topic name: /sensing/lidar/top/outlier_filtered/pointcloud
+current time: 1677211906.710041736
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211906.719886162
+----------
+topic name: /localization/kinematic_state
+current time: 1677211906.720232032
+----------
+topic name: /localization/util/measurement_range/pointcloud
+current time: 1677211906.720914407
+----------
+topic name: /localization/util/voxel_grid_downsample/pointcloud
+current time: 1677211906.732041594
+----------
+topic name: /localization/util/downsample/pointcloud
+current time: 1677211906.732382325
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211906.740995747
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211906.760509530
+----------
+topic name: /localization/kinematic_state
+current time: 1677211906.760892799
+----------
+topic name: /localization/pose_estimator/pose_with_covariance
+current time: 1677211906.763525133
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211906.780798029
+----------
+topic name: /localization/kinematic_state
+current time: 1677211906.781226374
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211906.781812002
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211906.820870393
+----------
+topic name: /localization/kinematic_state
+current time: 1677211906.821158832
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211906.842604605
+----------
+topic name: /sensing/lidar/top/self_cropped/pointcloud_ex
+current time: 1677211906.881777427
+----------
+topic name: /sensing/lidar/top/mirror_cropped/pointcloud_ex
+current time: 1677211906.885045353
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211906.903082315
+----------
+topic name: /localization/kinematic_state
+current time: 1677211906.903457133
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211906.904203340
+----------
+topic name: /sensing/lidar/top/rectified/pointcloud_ex
+current time: 1677211906.906408077
+----------
+topic name: /planning/scenario_planning/scenario_selector/trajectory
+current time: 1677211906.918331514
+----------
+topic name: /sensing/lidar/top/outlier_filtered/pointcloud
+current time: 1677211906.920912949
+----------
+topic name: /planning/scenario_planning/trajectory
+current time: 1677211906.926758590
+----------
+topic name: /localization/util/measurement_range/pointcloud
+current time: 1677211906.929894661
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211906.943703793
+----------
+topic name: /localization/kinematic_state
+current time: 1677211906.944064982
+----------
+topic name: /localization/util/voxel_grid_downsample/pointcloud
+current time: 1677211906.947602196
+----------
+topic name: /localization/util/downsample/pointcloud
+current time: 1677211906.948159490
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211906.964597000
+----------
+topic name: /localization/pose_estimator/pose_with_covariance
+current time: 1677211906.968308122
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211906.984534930
+----------
+topic name: /localization/kinematic_state
+current time: 1677211906.984894697
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211907.025264312
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211907.025577790
+----------
+topic name: /localization/kinematic_state
+current time: 1677211907.025682704
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211907.073065471
+----------
+topic name: /localization/kinematic_state
+current time: 1677211907.073503440
+----------
+topic name: /sensing/lidar/top/self_cropped/pointcloud_ex
+current time: 1677211907.089577749
+----------
+topic name: /planning/scenario_planning/scenario_selector/trajectory
+current time: 1677211907.089851775
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211907.090152857
+----------
+topic name: /sensing/lidar/top/mirror_cropped/pointcloud_ex
+current time: 1677211907.094611771
+----------
+topic name: /planning/scenario_planning/trajectory
+current time: 1677211907.097230725
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211907.107927888
+----------
+topic name: /localization/kinematic_state
+current time: 1677211907.108153201
+----------
+topic name: /sensing/lidar/top/rectified/pointcloud_ex
+current time: 1677211907.117448589
+----------
+topic name: /sensing/lidar/top/outlier_filtered/pointcloud
+current time: 1677211907.136119105
+----------
+topic name: /localization/util/measurement_range/pointcloud
+current time: 1677211907.141825507
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211907.147691655
+----------
+topic name: /localization/kinematic_state
+current time: 1677211907.147986558
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211907.149101741
+----------
+topic name: /localization/util/voxel_grid_downsample/pointcloud
+current time: 1677211907.153965058
+----------
+topic name: /localization/util/downsample/pointcloud
+current time: 1677211907.154146920
+----------
+topic name: /localization/pose_estimator/pose_with_covariance
+current time: 1677211907.188234552
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211907.190635972
+----------
+topic name: /localization/kinematic_state
+current time: 1677211907.190880980
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211907.208962431
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211907.230416875
+----------
+topic name: /localization/kinematic_state
+current time: 1677211907.230812413
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211907.269862800
+----------
+topic name: /localization/kinematic_state
+current time: 1677211907.270090393
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211907.270327698
+----------
+topic name: /planning/scenario_planning/scenario_selector/trajectory
+current time: 1677211907.286018547
+----------
+topic name: /planning/scenario_planning/trajectory
+current time: 1677211907.299061856
+----------
+topic name: /sensing/lidar/top/self_cropped/pointcloud_ex
+current time: 1677211907.301277853
+----------
+topic name: /sensing/lidar/top/mirror_cropped/pointcloud_ex
+current time: 1677211907.306614181
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211907.310472286
+----------
+topic name: /localization/kinematic_state
+current time: 1677211907.310750384
+----------
+topic name: /sensing/lidar/top/rectified/pointcloud_ex
+current time: 1677211907.322871252
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211907.331382586
+----------
+topic name: /sensing/lidar/top/outlier_filtered/pointcloud
+current time: 1677211907.340022380
+----------
+topic name: /localization/util/measurement_range/pointcloud
+current time: 1677211907.348693354
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211907.351912579
+----------
+topic name: /localization/kinematic_state
+current time: 1677211907.352469973
+----------
+topic name: /localization/util/voxel_grid_downsample/pointcloud
+current time: 1677211907.363726433
+----------
+topic name: /localization/util/downsample/pointcloud
+current time: 1677211907.363866140
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211907.392026296
+----------
+topic name: /localization/kinematic_state
+current time: 1677211907.392311860
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211907.395210003
+----------
+topic name: /localization/pose_estimator/pose_with_covariance
+current time: 1677211907.412834395
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211907.432313774
+----------
+topic name: /localization/kinematic_state
+current time: 1677211907.433022175
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211907.463907020
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211907.472435202
+----------
+topic name: /localization/kinematic_state
+current time: 1677211907.472644753
+----------
+topic name: /planning/scenario_planning/scenario_selector/trajectory
+current time: 1677211907.488999344
+----------
+topic name: /sensing/lidar/top/self_cropped/pointcloud_ex
+current time: 1677211907.494512191
+----------
+topic name: /sensing/lidar/top/mirror_cropped/pointcloud_ex
+current time: 1677211907.497960845
+----------
+topic name: /planning/scenario_planning/trajectory
+current time: 1677211907.498116720
+----------
+topic name: /sensing/lidar/top/rectified/pointcloud_ex
+current time: 1677211907.513662384
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211907.513986091
+----------
+topic name: /localization/kinematic_state
+current time: 1677211907.514151746
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211907.514242121
+----------
+topic name: /sensing/lidar/top/outlier_filtered/pointcloud
+current time: 1677211907.534170697
+----------
+topic name: /localization/util/measurement_range/pointcloud
+current time: 1677211907.540909409
+----------
+topic name: /localization/util/voxel_grid_downsample/pointcloud
+current time: 1677211907.555594435
+----------
+topic name: /localization/util/downsample/pointcloud
+current time: 1677211907.556041215
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211907.557160929
+----------
+topic name: /localization/kinematic_state
+current time: 1677211907.557349902
+----------
+topic name: /localization/pose_estimator/pose_with_covariance
+current time: 1677211907.562425224
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211907.574772266
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211907.595027090
+----------
+topic name: /localization/kinematic_state
+current time: 1677211907.595248428
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211907.635239045
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211907.635506237
+----------
+topic name: /localization/kinematic_state
+current time: 1677211907.635617541
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211907.676782238
+----------
+topic name: /localization/kinematic_state
+current time: 1677211907.677011049
+----------
+topic name: /planning/scenario_planning/scenario_selector/trajectory
+current time: 1677211907.692611034
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211907.696920521
+----------
+topic name: /planning/scenario_planning/trajectory
+current time: 1677211907.700440269
+----------
+topic name: /sensing/lidar/top/self_cropped/pointcloud_ex
+current time: 1677211907.713958454
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211907.718345789
+----------
+topic name: /localization/kinematic_state
+current time: 1677211907.718648327
+----------
+topic name: /sensing/lidar/top/mirror_cropped/pointcloud_ex
+current time: 1677211907.721621414
+----------
+topic name: /sensing/lidar/top/rectified/pointcloud_ex
+current time: 1677211907.740713296
+----------
+topic name: /sensing/lidar/top/outlier_filtered/pointcloud
+current time: 1677211907.752959365
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211907.758012358
+----------
+topic name: /localization/kinematic_state
+current time: 1677211907.758293148
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211907.758516309
+----------
+topic name: /localization/util/measurement_range/pointcloud
+current time: 1677211907.760731783
+----------
+topic name: /localization/util/voxel_grid_downsample/pointcloud
+current time: 1677211907.772305378
+----------
+topic name: /localization/util/downsample/pointcloud
+current time: 1677211907.772425103
+----------
+topic name: /localization/pose_estimator/pose_with_covariance
+current time: 1677211907.796623672
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211907.797591745
+----------
+topic name: /localization/kinematic_state
+current time: 1677211907.797776697
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211907.818680371
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211907.838519120
+----------
+topic name: /localization/kinematic_state
+current time: 1677211907.838793838
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211907.879335901
+----------
+topic name: /localization/kinematic_state
+current time: 1677211907.879546230
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211907.880143156
+----------
+topic name: /sensing/lidar/top/self_cropped/pointcloud_ex
+current time: 1677211907.908909372
+----------
+topic name: /sensing/lidar/top/mirror_cropped/pointcloud_ex
+current time: 1677211907.913621226
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211907.920796807
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211907.921211576
+----------
+topic name: /localization/kinematic_state
+current time: 1677211907.921364488
+----------
+topic name: /sensing/lidar/top/rectified/pointcloud_ex
+current time: 1677211907.932086935
+----------
+topic name: /planning/scenario_planning/scenario_selector/trajectory
+current time: 1677211907.934334889
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211907.941929389
+----------
+topic name: /localization/kinematic_state
+current time: 1677211907.942285755
+----------
+topic name: /planning/scenario_planning/trajectory
+current time: 1677211907.947767629
+----------
+topic name: /sensing/lidar/top/outlier_filtered/pointcloud
+current time: 1677211907.957503567
+----------
+topic name: /localization/util/measurement_range/pointcloud
+current time: 1677211907.964900800
+----------
+topic name: /localization/util/voxel_grid_downsample/pointcloud
+current time: 1677211907.972485886
+----------
+topic name: /localization/util/downsample/pointcloud
+current time: 1677211907.972667802
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211907.983570914
+----------
+topic name: /localization/kinematic_state
+current time: 1677211907.983921759
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211907.984156276
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211908.021340997
+----------
+topic name: /localization/kinematic_state
+current time: 1677211908.021572867
+----------
+topic name: /localization/pose_estimator/pose_with_covariance
+current time: 1677211908.024570330
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211908.044231149
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211908.071255561
+----------
+topic name: /localization/kinematic_state
+current time: 1677211908.071624623
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211908.103705243
+----------
+topic name: /localization/kinematic_state
+current time: 1677211908.103971911
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211908.105118257
+----------
+topic name: /sensing/lidar/top/self_cropped/pointcloud_ex
+current time: 1677211908.111699433
+----------
+topic name: /planning/scenario_planning/scenario_selector/trajectory
+current time: 1677211908.116242724
+----------
+topic name: /sensing/lidar/top/mirror_cropped/pointcloud_ex
+current time: 1677211908.116823803
+----------
+topic name: /planning/scenario_planning/trajectory
+current time: 1677211908.126815002
+----------
+topic name: /sensing/lidar/top/rectified/pointcloud_ex
+current time: 1677211908.134182174
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211908.146521679
+----------
+topic name: /localization/kinematic_state
+current time: 1677211908.146851792
+----------
+topic name: /sensing/lidar/top/outlier_filtered/pointcloud
+current time: 1677211908.156766774
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211908.164396186
+----------
+topic name: /localization/util/measurement_range/pointcloud
+current time: 1677211908.164820421
+----------
+topic name: /localization/util/voxel_grid_downsample/pointcloud
+current time: 1677211908.173486400
+----------
+topic name: /localization/util/downsample/pointcloud
+current time: 1677211908.173768031
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211908.186260869
+----------
+topic name: /localization/kinematic_state
+current time: 1677211908.186743905
+----------
+topic name: /localization/pose_estimator/pose_with_covariance
+current time: 1677211908.199979778
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211908.225359167
+----------
+topic name: /localization/kinematic_state
+current time: 1677211908.225569847
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211908.225641688
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211908.270222275
+----------
+topic name: /localization/kinematic_state
+current time: 1677211908.270480999
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211908.286827700
+----------
+topic name: /sensing/lidar/top/self_cropped/pointcloud_ex
+current time: 1677211908.302196390
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211908.306801149
+----------
+topic name: /localization/kinematic_state
+current time: 1677211908.307075646
+----------
+topic name: /sensing/lidar/top/mirror_cropped/pointcloud_ex
+current time: 1677211908.307154364
+----------
+topic name: /planning/scenario_planning/scenario_selector/trajectory
+current time: 1677211908.313114746
+----------
+topic name: /planning/scenario_planning/trajectory
+current time: 1677211908.320802939
+----------
+topic name: /sensing/lidar/top/rectified/pointcloud_ex
+current time: 1677211908.325679436
+----------
+topic name: /sensing/lidar/top/outlier_filtered/pointcloud
+current time: 1677211908.342857887
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211908.347629393
+----------
+topic name: /localization/kinematic_state
+current time: 1677211908.347935297
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211908.348750162
+----------
+topic name: /localization/util/measurement_range/pointcloud
+current time: 1677211908.353599410
+----------
+topic name: /localization/util/voxel_grid_downsample/pointcloud
+current time: 1677211908.361991634
+----------
+topic name: /localization/util/downsample/pointcloud
+current time: 1677211908.362179255
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211908.387688556
+----------
+topic name: /localization/kinematic_state
+current time: 1677211908.387946701
+----------
+topic name: /localization/pose_estimator/pose_with_covariance
+current time: 1677211908.394354684
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211908.406930755
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211908.427590086
+----------
+topic name: /localization/kinematic_state
+current time: 1677211908.427846030
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211908.467978697
+----------
+topic name: /localization/kinematic_state
+current time: 1677211908.468186692
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211908.468680745
+----------
+topic name: /planning/scenario_planning/scenario_selector/trajectory
+current time: 1677211908.486312613
+----------
+topic name: /planning/scenario_planning/trajectory
+current time: 1677211908.492906777
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211908.509999818
+----------
+topic name: /localization/kinematic_state
+current time: 1677211908.510305769
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211908.527814993
+----------
+topic name: /sensing/lidar/top/self_cropped/pointcloud_ex
+current time: 1677211908.533887256
+----------
+topic name: /sensing/lidar/top/mirror_cropped/pointcloud_ex
+current time: 1677211908.538634600
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211908.546861063
+----------
+topic name: /localization/kinematic_state
+current time: 1677211908.547102169
+----------
+topic name: /sensing/lidar/top/rectified/pointcloud_ex
+current time: 1677211908.555770033
+----------
+topic name: /sensing/lidar/top/outlier_filtered/pointcloud
+current time: 1677211908.576565621
+----------
+topic name: /localization/util/measurement_range/pointcloud
+current time: 1677211908.580027325
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211908.589464771
+----------
+topic name: /localization/kinematic_state
+current time: 1677211908.589785721
+----------
+topic name: /localization/util/voxel_grid_downsample/pointcloud
+current time: 1677211908.589866604
+----------
+topic name: /localization/util/downsample/pointcloud
+current time: 1677211908.590233534
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211908.590591383
+----------
+topic name: /localization/pose_estimator/pose_with_covariance
+current time: 1677211908.605768728
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211908.631748322
+----------
+topic name: /localization/kinematic_state
+current time: 1677211908.632186109
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211908.649586111
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211908.672363372
+----------
+topic name: /localization/kinematic_state
+current time: 1677211908.672620034
+----------
+topic name: /planning/scenario_planning/scenario_selector/trajectory
+current time: 1677211908.689202662
+----------
+topic name: /planning/scenario_planning/trajectory
+current time: 1677211908.699639368
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211908.710885519
+----------
+topic name: /localization/kinematic_state
+current time: 1677211908.711194978
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211908.713076170
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211908.753161966
+----------
+topic name: /localization/kinematic_state
+current time: 1677211908.753494973
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211908.771112751
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211908.791455644
+----------
+topic name: /localization/kinematic_state
+current time: 1677211908.791786994
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211908.832875977
+----------
+topic name: /localization/kinematic_state
+current time: 1677211908.833205952
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211908.833286247
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211908.874510716
+----------
+topic name: /localization/kinematic_state
+current time: 1677211908.874772334
+----------
+topic name: /planning/scenario_planning/scenario_selector/trajectory
+current time: 1677211908.889734520
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211908.896650593
+----------
+topic name: /planning/scenario_planning/trajectory
+current time: 1677211908.898110197
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211908.914993834
+----------
+topic name: /localization/kinematic_state
+current time: 1677211908.915259784
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211908.955830523
+----------
+topic name: /localization/kinematic_state
+current time: 1677211908.956149031
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211908.956978990
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211908.993821736
+----------
+topic name: /localization/kinematic_state
+current time: 1677211908.994124338
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211909.018012926
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211909.035706945
+----------
+topic name: /localization/kinematic_state
+current time: 1677211909.035889718
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211909.076231494
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211909.076455140
+----------
+topic name: /localization/kinematic_state
+current time: 1677211909.076614907
+----------
+topic name: /planning/scenario_planning/scenario_selector/trajectory
+current time: 1677211909.088848321
+----------
+topic name: /planning/scenario_planning/trajectory
+current time: 1677211909.095095221
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211909.115984137
+----------
+topic name: /localization/kinematic_state
+current time: 1677211909.116197904
+----------
+topic name: /sensing/lidar/top/self_cropped/pointcloud_ex
+current time: 1677211909.130897219
+----------
+topic name: /sensing/lidar/top/mirror_cropped/pointcloud_ex
+current time: 1677211909.134109397
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211909.137615836
+----------
+topic name: /sensing/lidar/top/rectified/pointcloud_ex
+current time: 1677211909.151425973
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211909.156941891
+----------
+topic name: /localization/kinematic_state
+current time: 1677211909.157367458
+----------
+topic name: /sensing/lidar/top/outlier_filtered/pointcloud
+current time: 1677211909.170688140
+----------
+topic name: /localization/util/measurement_range/pointcloud
+current time: 1677211909.177040140
+----------
+topic name: /localization/util/voxel_grid_downsample/pointcloud
+current time: 1677211909.185650789
+----------
+topic name: /localization/util/downsample/pointcloud
+current time: 1677211909.185823681
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211909.199504024
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211909.200017783
+----------
+topic name: /localization/kinematic_state
+current time: 1677211909.200893715
+----------
+topic name: /localization/pose_estimator/pose_with_covariance
+current time: 1677211909.213119580
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211909.237458311
+----------
+topic name: /localization/kinematic_state
+current time: 1677211909.237669414
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211909.258795310
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211909.279606255
+----------
+topic name: /localization/kinematic_state
+current time: 1677211909.279901232
+----------
+topic name: /planning/scenario_planning/scenario_selector/trajectory
+current time: 1677211909.294832550
+----------
+topic name: /planning/scenario_planning/trajectory
+current time: 1677211909.302791602
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211909.319850454
+----------
+topic name: /localization/kinematic_state
+current time: 1677211909.320267759
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211909.320681435
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211909.341144814
+----------
+topic name: /localization/kinematic_state
+current time: 1677211909.341677403
+----------
+topic name: /sensing/lidar/top/self_cropped/pointcloud_ex
+current time: 1677211909.345798760
+----------
+topic name: /sensing/lidar/top/mirror_cropped/pointcloud_ex
+current time: 1677211909.350395898
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211909.360489877
+----------
+topic name: /sensing/lidar/top/rectified/pointcloud_ex
+current time: 1677211909.367767948
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211909.380228684
+----------
+topic name: /localization/kinematic_state
+current time: 1677211909.380470204
+----------
+topic name: /sensing/lidar/top/outlier_filtered/pointcloud
+current time: 1677211909.387160175
+----------
+topic name: /localization/util/measurement_range/pointcloud
+current time: 1677211909.394504764
+----------
+topic name: /localization/util/voxel_grid_downsample/pointcloud
+current time: 1677211909.407590481
+----------
+topic name: /localization/util/downsample/pointcloud
+current time: 1677211909.407885441
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211909.423037282
+----------
+topic name: /localization/kinematic_state
+current time: 1677211909.423401311
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211909.423798624
+----------
+topic name: /localization/pose_estimator/pose_with_covariance
+current time: 1677211909.433814262
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211909.462420920
+----------
+topic name: /localization/kinematic_state
+current time: 1677211909.462701905
+----------
+topic name: /planning/scenario_planning/scenario_selector/trajectory
+current time: 1677211909.479299725
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211909.486137481
+----------
+topic name: /planning/scenario_planning/trajectory
+current time: 1677211909.488699107
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211909.501683953
+----------
+topic name: /localization/kinematic_state
+current time: 1677211909.502007603
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211909.543353992
+----------
+topic name: /localization/kinematic_state
+current time: 1677211909.543619377
+----------
+topic name: /sensing/lidar/top/self_cropped/pointcloud_ex
+current time: 1677211909.543708322
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211909.544421665
+----------
+topic name: /sensing/lidar/top/mirror_cropped/pointcloud_ex
+current time: 1677211909.550805232
+----------
+topic name: /sensing/lidar/top/rectified/pointcloud_ex
+current time: 1677211909.567976930
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211909.583579790
+----------
+topic name: /localization/kinematic_state
+current time: 1677211909.583806109
+----------
+topic name: /sensing/lidar/top/outlier_filtered/pointcloud
+current time: 1677211909.587408202
+----------
+topic name: /localization/util/measurement_range/pointcloud
+current time: 1677211909.598133685
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211909.605681780
+----------
+topic name: /localization/util/voxel_grid_downsample/pointcloud
+current time: 1677211909.609542794
+----------
+topic name: /localization/util/downsample/pointcloud
+current time: 1677211909.609710715
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211909.626087664
+----------
+topic name: /localization/kinematic_state
+current time: 1677211909.626653604
+----------
+topic name: /localization/pose_estimator/pose_with_covariance
+current time: 1677211909.641770843
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211909.665356806
+----------
+topic name: /localization/kinematic_state
+current time: 1677211909.665751233
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211909.668281067
+----------
+topic name: /planning/scenario_planning/scenario_selector/trajectory
+current time: 1677211909.684606846
+----------
+topic name: /planning/scenario_planning/trajectory
+current time: 1677211909.691079913
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211909.705701117
+----------
+topic name: /localization/kinematic_state
+current time: 1677211909.705958733
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211909.725317503
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211909.744627952
+----------
+topic name: /localization/kinematic_state
+current time: 1677211909.744831151
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211909.787489412
+----------
+topic name: /localization/kinematic_state
+current time: 1677211909.788028433
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211909.788826439
+----------
+topic name: /sensing/lidar/top/self_cropped/pointcloud_ex
+current time: 1677211909.795212987
+----------
+topic name: /sensing/lidar/top/mirror_cropped/pointcloud_ex
+current time: 1677211909.797722332
+----------
+topic name: /sensing/lidar/top/rectified/pointcloud_ex
+current time: 1677211909.814286471
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211909.826400778
+----------
+topic name: /localization/kinematic_state
+current time: 1677211909.826878944
+----------
+topic name: /sensing/lidar/top/outlier_filtered/pointcloud
+current time: 1677211909.832822421
+----------
+topic name: /localization/util/measurement_range/pointcloud
+current time: 1677211909.837185400
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211909.847966009
+----------
+topic name: /localization/util/voxel_grid_downsample/pointcloud
+current time: 1677211909.848391502
+----------
+topic name: /localization/util/downsample/pointcloud
+current time: 1677211909.848518447
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211909.868099760
+----------
+topic name: /localization/kinematic_state
+current time: 1677211909.868598730
+----------
+topic name: /planning/scenario_planning/scenario_selector/trajectory
+current time: 1677211909.889496958
+----------
+topic name: /planning/scenario_planning/trajectory
+current time: 1677211909.896766295
+----------
+topic name: /localization/pose_estimator/pose_with_covariance
+current time: 1677211909.897054039
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211909.907769241
+----------
+topic name: /localization/kinematic_state
+current time: 1677211909.908017943
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211909.911165777
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211909.948901183
+----------
+topic name: /localization/kinematic_state
+current time: 1677211909.949298850
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211909.969091948
+----------
+topic name: /sensing/lidar/top/self_cropped/pointcloud_ex
+current time: 1677211909.985506494
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211909.990999799
+----------
+topic name: /localization/kinematic_state
+current time: 1677211909.991349708
+----------
+topic name: /sensing/lidar/top/mirror_cropped/pointcloud_ex
+current time: 1677211909.992276419
+----------
+topic name: /sensing/lidar/top/rectified/pointcloud_ex
+current time: 1677211910.010601179
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211910.028941064
+----------
+topic name: /localization/kinematic_state
+current time: 1677211910.029166324
+----------
+topic name: /sensing/lidar/top/outlier_filtered/pointcloud
+current time: 1677211910.029790610
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211910.030462464
+----------
+topic name: /localization/util/measurement_range/pointcloud
+current time: 1677211910.037088144
+----------
+topic name: /localization/util/voxel_grid_downsample/pointcloud
+current time: 1677211910.052236043
+----------
+topic name: /localization/util/downsample/pointcloud
+current time: 1677211910.052569807
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211910.075887928
+----------
+topic name: /localization/kinematic_state
+current time: 1677211910.076743839
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211910.092106169
+----------
+topic name: /localization/pose_estimator/pose_with_covariance
+current time: 1677211910.093947192
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211910.114596063
+----------
+topic name: /localization/kinematic_state
+current time: 1677211910.115013651
+----------
+topic name: /planning/scenario_planning/scenario_selector/trajectory
+current time: 1677211910.127764563
+----------
+topic name: /planning/scenario_planning/trajectory
+current time: 1677211910.140187951
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211910.158410468
+----------
+topic name: /localization/kinematic_state
+current time: 1677211910.158648181
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211910.159243715
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211910.195065793
+----------
+topic name: /localization/kinematic_state
+current time: 1677211910.195441936
+----------
+topic name: /sensing/lidar/top/self_cropped/pointcloud_ex
+current time: 1677211910.197381776
+----------
+topic name: /sensing/lidar/top/mirror_cropped/pointcloud_ex
+current time: 1677211910.205392270
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211910.215694240
+----------
+topic name: /sensing/lidar/top/rectified/pointcloud_ex
+current time: 1677211910.222359259
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211910.237877686
+----------
+topic name: /localization/kinematic_state
+current time: 1677211910.238147871
+----------
+topic name: /sensing/lidar/top/outlier_filtered/pointcloud
+current time: 1677211910.244192005
+----------
+topic name: /localization/util/measurement_range/pointcloud
+current time: 1677211910.249318221
+----------
+topic name: /localization/util/voxel_grid_downsample/pointcloud
+current time: 1677211910.260458294
+----------
+topic name: /localization/util/downsample/pointcloud
+current time: 1677211910.260627435
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211910.281361213
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211910.282006680
+----------
+topic name: /localization/kinematic_state
+current time: 1677211910.282156165
+----------
+topic name: /planning/scenario_planning/scenario_selector/trajectory
+current time: 1677211910.298149887
+----------
+topic name: /planning/scenario_planning/trajectory
+current time: 1677211910.311308504
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211910.316802278
+----------
+topic name: /localization/kinematic_state
+current time: 1677211910.319127975
+----------
+topic name: /localization/pose_estimator/pose_with_covariance
+current time: 1677211910.321273893
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211910.337534708
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211910.361059989
+----------
+topic name: /localization/kinematic_state
+current time: 1677211910.361351902
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211910.398005340
+----------
+topic name: /localization/kinematic_state
+current time: 1677211910.398305696
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211910.400191472
+----------
+topic name: /sensing/lidar/top/self_cropped/pointcloud_ex
+current time: 1677211910.406153286
+----------
+topic name: /sensing/lidar/top/mirror_cropped/pointcloud_ex
+current time: 1677211910.410554333
+----------
+topic name: /sensing/lidar/top/rectified/pointcloud_ex
+current time: 1677211910.427405810
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211910.439273496
+----------
+topic name: /localization/kinematic_state
+current time: 1677211910.439558057
+----------
+topic name: /sensing/lidar/top/outlier_filtered/pointcloud
+current time: 1677211910.449086962
+----------
+topic name: /localization/util/measurement_range/pointcloud
+current time: 1677211910.454548880
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211910.459290974
+----------
+topic name: /localization/util/voxel_grid_downsample/pointcloud
+current time: 1677211910.477058727
+----------
+topic name: /localization/util/downsample/pointcloud
+current time: 1677211910.477339616
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211910.479256926
+----------
+topic name: /localization/kinematic_state
+current time: 1677211910.479550481
+----------
+topic name: /localization/pose_estimator/pose_with_covariance
+current time: 1677211910.515992853
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211910.520402699
+----------
+topic name: /localization/kinematic_state
+current time: 1677211910.520670072
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211910.520746401
+----------
+topic name: /planning/scenario_planning/scenario_selector/trajectory
+current time: 1677211910.528494711
+----------
+topic name: /planning/scenario_planning/trajectory
+current time: 1677211910.535758608
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211910.563307007
+----------
+topic name: /localization/kinematic_state
+current time: 1677211910.563559792
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211910.580624586
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211910.601565851
+----------
+topic name: /localization/kinematic_state
+current time: 1677211910.601836978
+----------
+topic name: /sensing/lidar/top/self_cropped/pointcloud_ex
+current time: 1677211910.607273117
+----------
+topic name: /sensing/lidar/top/mirror_cropped/pointcloud_ex
+current time: 1677211910.611912391
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211910.621223900
+----------
+topic name: /localization/kinematic_state
+current time: 1677211910.621510274
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211910.622101139
+----------
+topic name: /sensing/lidar/top/rectified/pointcloud_ex
+current time: 1677211910.630511481
+----------
+topic name: /sensing/lidar/top/outlier_filtered/pointcloud
+current time: 1677211910.648147118
+----------
+topic name: /localization/util/measurement_range/pointcloud
+current time: 1677211910.654361146
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211910.662325042
+----------
+topic name: /localization/kinematic_state
+current time: 1677211910.662666065
+----------
+topic name: /localization/util/voxel_grid_downsample/pointcloud
+current time: 1677211910.668884302
+----------
+topic name: /localization/util/downsample/pointcloud
+current time: 1677211910.669132814
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211910.682878326
+----------
+topic name: /localization/pose_estimator/pose_with_covariance
+current time: 1677211910.690110507
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211910.702531946
+----------
+topic name: /localization/kinematic_state
+current time: 1677211910.702762369
+----------
+topic name: /planning/scenario_planning/scenario_selector/trajectory
+current time: 1677211910.717416345
+----------
+topic name: /planning/scenario_planning/trajectory
+current time: 1677211910.729784923
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211910.743046694
+----------
+topic name: /localization/kinematic_state
+current time: 1677211910.743358378
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211910.743536480
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211910.782574206
+----------
+topic name: /localization/kinematic_state
+current time: 1677211910.782981065
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211910.804618579
+----------
+topic name: /sensing/lidar/top/self_cropped/pointcloud_ex
+current time: 1677211910.823748853
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211910.825088895
+----------
+topic name: /localization/kinematic_state
+current time: 1677211910.825379058
+----------
+topic name: /sensing/lidar/top/mirror_cropped/pointcloud_ex
+current time: 1677211910.830476160
+----------
+topic name: /sensing/lidar/top/rectified/pointcloud_ex
+current time: 1677211910.847072970
+----------
+topic name: /sensing/lidar/top/outlier_filtered/pointcloud
+current time: 1677211910.861404353
+----------
+topic name: /localization/util/measurement_range/pointcloud
+current time: 1677211910.868198117
+----------
+topic name: /localization/util/voxel_grid_downsample/pointcloud
+current time: 1677211910.883778863
+----------
+topic name: /localization/util/downsample/pointcloud
+current time: 1677211910.884406617
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211910.899420178
+----------
+topic name: /localization/kinematic_state
+current time: 1677211910.899642144
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211910.904281499
+----------
+topic name: /localization/kinematic_state
+current time: 1677211910.904564103
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211910.904665627
+----------
+topic name: /planning/scenario_planning/scenario_selector/trajectory
+current time: 1677211910.920589263
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211910.925333618
+----------
+topic name: /localization/pose_estimator/pose_with_covariance
+current time: 1677211910.929648411
+----------
+topic name: /planning/scenario_planning/trajectory
+current time: 1677211910.930330698
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211910.945852399
+----------
+topic name: /localization/kinematic_state
+current time: 1677211910.946272908
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211910.986189225
+----------
+topic name: /localization/kinematic_state
+current time: 1677211910.986432392
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211910.986540910
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211911.025977101
+----------
+topic name: /localization/kinematic_state
+current time: 1677211911.026204392
+----------
+topic name: /sensing/lidar/top/self_cropped/pointcloud_ex
+current time: 1677211911.030506297
+----------
+topic name: /sensing/lidar/top/mirror_cropped/pointcloud_ex
+current time: 1677211911.035936441
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211911.048157529
+----------
+topic name: /sensing/lidar/top/rectified/pointcloud_ex
+current time: 1677211911.053536546
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211911.067162861
+----------
+topic name: /localization/kinematic_state
+current time: 1677211911.067429201
+----------
+topic name: /sensing/lidar/top/outlier_filtered/pointcloud
+current time: 1677211911.071139505
+----------
+topic name: /planning/scenario_planning/scenario_selector/trajectory
+current time: 1677211911.082972130
+----------
+topic name: /planning/scenario_planning/trajectory
+current time: 1677211911.090770221
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211911.107483389
+----------
+topic name: /localization/kinematic_state
+current time: 1677211911.107740004
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211911.108040513
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211911.147282486
+----------
+topic name: /localization/kinematic_state
+current time: 1677211911.147527588
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211911.168741475
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211911.190173951
+----------
+topic name: /localization/kinematic_state
+current time: 1677211911.190596128
+----------
+topic name: /sensing/lidar/top/self_cropped/pointcloud_ex
+current time: 1677211911.225383692
+----------
+topic name: /sensing/lidar/top/mirror_cropped/pointcloud_ex
+current time: 1677211911.227462859
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211911.229560529
+----------
+topic name: /localization/kinematic_state
+current time: 1677211911.229736371
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211911.230212059
+----------
+topic name: /sensing/lidar/top/rectified/pointcloud_ex
+current time: 1677211911.244986212
+----------
+topic name: /sensing/lidar/top/outlier_filtered/pointcloud
+current time: 1677211911.262244334
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211911.272039174
+----------
+topic name: /localization/kinematic_state
+current time: 1677211911.272230411
+----------
+topic name: /localization/util/measurement_range/pointcloud
+current time: 1677211911.272877385
+----------
+topic name: /localization/util/voxel_grid_downsample/pointcloud
+current time: 1677211911.287687316
+----------
+topic name: /localization/util/downsample/pointcloud
+current time: 1677211911.287943595
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211911.294544806
+----------
+topic name: /planning/scenario_planning/scenario_selector/trajectory
+current time: 1677211911.297365471
+----------
+topic name: /planning/scenario_planning/trajectory
+current time: 1677211911.311246484
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211911.311531936
+----------
+topic name: /localization/kinematic_state
+current time: 1677211911.311734921
+----------
+topic name: /localization/pose_estimator/pose_with_covariance
+current time: 1677211911.322600898
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211911.352111091
+----------
+topic name: /localization/kinematic_state
+current time: 1677211911.352399223
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211911.352480808
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211911.396280784
+----------
+topic name: /localization/kinematic_state
+current time: 1677211911.396577922
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211911.415315360
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211911.433306537
+----------
+topic name: /localization/kinematic_state
+current time: 1677211911.433641066
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211911.473851937
+----------
+topic name: /localization/kinematic_state
+current time: 1677211911.474222784
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211911.476058822
+----------
+topic name: /planning/scenario_planning/scenario_selector/trajectory
+current time: 1677211911.489126896
+----------
+topic name: /planning/scenario_planning/trajectory
+current time: 1677211911.497265241
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211911.513155153
+----------
+topic name: /localization/kinematic_state
+current time: 1677211911.513408933
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211911.533233283
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211911.552921389
+----------
+topic name: /localization/kinematic_state
+current time: 1677211911.553184398
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211911.594433363
+----------
+topic name: /localization/kinematic_state
+current time: 1677211911.594716398
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211911.595660530
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211911.632948993
+----------
+topic name: /localization/kinematic_state
+current time: 1677211911.633160834
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211911.654269403
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211911.675446005
+----------
+topic name: /localization/kinematic_state
+current time: 1677211911.675638477
+----------
+topic name: /planning/scenario_planning/scenario_selector/trajectory
+current time: 1677211911.688605487
+----------
+topic name: /planning/scenario_planning/trajectory
+current time: 1677211911.697153632
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211911.716701469
+----------
+topic name: /localization/kinematic_state
+current time: 1677211911.716986690
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211911.717075193
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211911.757500701
+----------
+topic name: /localization/kinematic_state
+current time: 1677211911.757932983
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211911.777116594
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211911.798213691
+----------
+topic name: /localization/kinematic_state
+current time: 1677211911.798561415
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211911.836952290
+----------
+topic name: /localization/kinematic_state
+current time: 1677211911.837389884
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211911.838560958
+----------
+topic name: /sensing/lidar/top/self_cropped/pointcloud_ex
+current time: 1677211911.864184171
+----------
+topic name: /sensing/lidar/top/mirror_cropped/pointcloud_ex
+current time: 1677211911.874960225
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211911.878421712
+----------
+topic name: /localization/kinematic_state
+current time: 1677211911.878655935
+----------
+topic name: /planning/scenario_planning/scenario_selector/trajectory
+current time: 1677211911.891238370
+----------
+topic name: /sensing/lidar/top/rectified/pointcloud_ex
+current time: 1677211911.892800184
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211911.899761765
+----------
+topic name: /planning/scenario_planning/trajectory
+current time: 1677211911.904841530
+----------
+topic name: /sensing/lidar/top/outlier_filtered/pointcloud
+current time: 1677211911.912384998
+----------
+topic name: /localization/util/measurement_range/pointcloud
+current time: 1677211911.917731117
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211911.918355669
+----------
+topic name: /localization/kinematic_state
+current time: 1677211911.918637338
+----------
+topic name: /localization/util/voxel_grid_downsample/pointcloud
+current time: 1677211911.926511450
+----------
+topic name: /localization/util/downsample/pointcloud
+current time: 1677211911.926826149
+----------
+topic name: /localization/pose_estimator/pose_with_covariance
+current time: 1677211911.956489500
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211911.960184826
+----------
+topic name: /localization/kinematic_state
+current time: 1677211911.960402296
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211911.962700366
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211912.004756838
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211912.005094025
+----------
+topic name: /localization/kinematic_state
+current time: 1677211912.005262768
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211912.023285476
+----------
+topic name: /localization/kinematic_state
+current time: 1677211912.023576848
+----------
+topic name: /sensing/lidar/top/self_cropped/pointcloud_ex
+current time: 1677211912.048716993
+----------
+topic name: /sensing/lidar/top/mirror_cropped/pointcloud_ex
+current time: 1677211912.053326076
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211912.061421246
+----------
+topic name: /localization/kinematic_state
+current time: 1677211912.061729491
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211912.062239070
+----------
+topic name: /sensing/lidar/top/rectified/pointcloud_ex
+current time: 1677211912.071596909
+----------
+topic name: /planning/scenario_planning/scenario_selector/trajectory
+current time: 1677211912.080907685
+----------
+topic name: /planning/scenario_planning/trajectory
+current time: 1677211912.088978886
+----------
+topic name: /sensing/lidar/top/outlier_filtered/pointcloud
+current time: 1677211912.089324686
+----------
+topic name: /localization/util/measurement_range/pointcloud
+current time: 1677211912.097577608
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211912.105817948
+----------
+topic name: /localization/kinematic_state
+current time: 1677211912.106078720
+----------
+topic name: /localization/util/voxel_grid_downsample/pointcloud
+current time: 1677211912.113130870
+----------
+topic name: /localization/util/downsample/pointcloud
+current time: 1677211912.113392200
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211912.124434024
+----------
+topic name: /localization/pose_estimator/pose_with_covariance
+current time: 1677211912.134887149
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211912.143779514
+----------
+topic name: /localization/kinematic_state
+current time: 1677211912.144321693
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211912.186180696
+----------
+topic name: /localization/kinematic_state
+current time: 1677211912.186431315
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211912.186994805
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211912.225339884
+----------
+topic name: /localization/kinematic_state
+current time: 1677211912.225634663
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211912.247600553
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211912.265652105
+----------
+topic name: /localization/kinematic_state
+current time: 1677211912.265860280
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211912.306562385
+----------
+topic name: /localization/kinematic_state
+current time: 1677211912.306807442
+----------
+topic name: /control/trajectory_follower/control_cmd
+current time: 1677211912.307859071
+----------
+topic name: /planning/scenario_planning/scenario_selector/trajectory
+current time: 1677211912.313429653
+----------
+topic name: /planning/scenario_planning/trajectory
+current time: 1677211912.322355895
+----------
+topic name: /localization/pose_twist_fusion_filter/kinematic_state
+current time: 1677211912.345754274
+----------
+topic name: /localization/kinematic_state
+current time: 1677211912.346001080
