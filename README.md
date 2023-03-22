@@ -10,7 +10,7 @@
 ## Build
 
 ```bash
-. /path/to/ros2_galactic/install/setup.bash
+. /path/to/ros2_humble/install/setup.bash
 vcs import src < build_depends.repos
 colcon build --symlink-install --cmake-args --cmake-args -DCMAKE_BUILD_TYPE=Release
 ```
